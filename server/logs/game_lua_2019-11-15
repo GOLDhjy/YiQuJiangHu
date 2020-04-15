@@ -1,0 +1,2146 @@
+[2019-11-15.483 14:03:11] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_handlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/game/handlers.lua:12: in function 'handlers.game_Client_login_req'
+	./scripts/game/net.lua:36: in function <./scripts/game/net.lua:27>	
+[2019-11-15.096 14:03:42] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.301 14:04:44] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_handlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/game/handlers.lua:12: in function 'handlers.game_Client_login_req'
+	./scripts/game/net.lua:36: in function <./scripts/game/net.lua:27>	
+[2019-11-15.612 14:05:07] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_handlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/game/handlers.lua:12: in function 'handlers.game_Client_login_req'
+	./scripts/game/net.lua:36: in function <./scripts/game/net.lua:27>	
+[2019-11-15.891 14:05:08] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.492 14:05:12] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:14] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:16] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:18] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:20] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:22] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:24] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.396 14:05:26] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:28] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:30] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:32] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:34] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:36] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:38] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:40] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:42] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:44] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:46] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:48] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:50] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:52] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:54] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.396 14:05:56] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:05:58] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:00] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:02] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:04] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:06] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:08] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:10] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.398 14:06:12] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:14] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:16] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:18] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:20] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.396 14:06:22] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:24] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:26] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:28] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:30] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:32] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:34] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:36] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:38] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:40] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:42] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:44] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:46] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:48] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:50] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:52] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:54] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:56] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:06:58] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:00] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:02] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:04] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:06] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.396 14:07:08] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:10] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:12] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:14] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:16] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:18] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:20] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:22] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:24] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.396 14:07:26] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.398 14:07:28] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.397 14:07:30] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.396 14:07:32] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.396 14:07:34] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.305 14:08:03] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.306 14:08:03] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.231 14:08:04] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.232 14:08:05] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.232 14:08:05] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.231 14:08:06] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.230 14:08:07] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:07] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.231 14:08:08] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.232 14:08:09] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.232 14:08:09] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.231 14:08:10] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:11] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.232 14:08:11] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:12] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:13] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.232 14:08:13] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.231 14:08:14] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:15] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:15] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.231 14:08:16] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.230 14:08:17] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:17] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.232 14:08:18] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.230 14:08:19] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:19] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.231 14:08:20] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:21] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.232 14:08:21] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:22] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:23] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:23] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.231 14:08:24] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:25] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.231 14:08:25] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.231 14:08:26] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.081 14:09:45] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.367 14:09:47] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.368 14:09:47] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.331 14:09:48] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.331 14:09:49] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.941 14:10:03] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	head	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/libs\proto.lua:14: in function 'Decode_proto'
+	./scripts/game/net.lua:28: in function <./scripts/game/net.lua:27>	
+[2019-11-15.881 14:10:05] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.572 14:10:08] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.653 14:10:10] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.654 14:10:10] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:11] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:12] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:12] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.630 14:10:13] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:14] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:10:14] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:15] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:16] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:10:16] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:17] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:18] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.633 14:10:18] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.630 14:10:19] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:20] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.632 14:10:20] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:21] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.630 14:10:22] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:22] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:23] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:24] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:24] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:25] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:26] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:10:26] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:27] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:28] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:10:28] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:29] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:30] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:30] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:31] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:32] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:32] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:33] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:34] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:10:34] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:35] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:36] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:36] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:37] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:38] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:10:38] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:39] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.630 14:10:40] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.630 14:10:40] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:41] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:42] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:10:42] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:43] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.630 14:10:44] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:44] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:45] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.630 14:10:46] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:46] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.630 14:10:47] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:48] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:10:48] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:49] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:50] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:50] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:51] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:52] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:10:52] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.630 14:10:53] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:54] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:54] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:55] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:56] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:56] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:57] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:58] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:10:58] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:10:59] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:00] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:00] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:01] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:02] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:11:02] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:03] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:04] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:04] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:05] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:06] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:06] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:07] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.630 14:11:08] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:08] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:09] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:10] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.632 14:11:10] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.630 14:11:11] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:12] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:12] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:13] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.630 14:11:14] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:14] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:15] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:16] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:11:16] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.630 14:11:17] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:18] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:11:18] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:19] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:20] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.632 14:11:20] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:21] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:22] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:11:22] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:23] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:24] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:24] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:25] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.630 14:11:26] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:26] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:27] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:28] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:11:28] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.630 14:11:29] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:30] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:30] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:31] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.630 14:11:32] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:32] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:33] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:34] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:34] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:35] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:36] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:11:36] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:37] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:38] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:11:38] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.630 14:11:39] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:40] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:40] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:41] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:42] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:11:42] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:43] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:44] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:44] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.630 14:11:45] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:46] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:46] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:47] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:48] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:11:48] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:49] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:50] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:50] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.630 14:11:51] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:52] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:52] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:53] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:54] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.632 14:11:54] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:55] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:56] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:56] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.630 14:11:57] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:58] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:11:58] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:11:59] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.630 14:12:00] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.631 14:12:00] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:12:01] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.631 14:12:02] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.794 14:12:31] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.180 14:12:34] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.181 14:12:34] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:35] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.130 14:12:36] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:36] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:37] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:38] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:12:38] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:39] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:40] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:40] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:41] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:42] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:12:42] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:43] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:44] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:44] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:45] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:46] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:46] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:47] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:48] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:48] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:49] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:50] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:50] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:51] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.130 14:12:52] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:52] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:53] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:54] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:12:54] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:55] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:56] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:12:56] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:57] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:58] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:12:58] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:12:59] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:00] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:00] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:01] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:02] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:02] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:03] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:04] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:04] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:05] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:06] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:06] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:07] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:08] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:08] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:09] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:10] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:10] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:11] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:12] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:12] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:13] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:14] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:14] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:15] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.130 14:13:16] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:16] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:17] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:18] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:18] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:19] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:20] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:20] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:21] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.130 14:13:22] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:22] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:23] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:24] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:24] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.130 14:13:25] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:26] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:26] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:27] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:28] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:28] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.130 14:13:29] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:30] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.133 14:13:30] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:31] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.130 14:13:32] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:32] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:33] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:34] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:34] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.130 14:13:35] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:36] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:36] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:37] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.130 14:13:38] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:38] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:39] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:40] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:40] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.130 14:13:41] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:42] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:42] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:43] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:44] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:44] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:45] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:46] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:46] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.130 14:13:47] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:48] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:48] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:49] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.130 14:13:50] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:50] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:51] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:52] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.132 14:13:52] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.131 14:13:53] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:54] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.131 14:13:54] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.259 14:14:10] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	sendBytes	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/game/net.lua:7: in function 'Send_user_message'
+	./scripts/game/handlers.lua:16: in function 'handlers.game_Client_login_req'
+	./scripts/game/net.lua:36: in function <./scripts/game/net.lua:27>	
+[2019-11-15.831 14:14:14] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:14] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.881 14:14:17] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:18] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:19] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:19] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:20] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:21] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:21] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:22] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:23] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.833 14:14:23] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:24] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:25] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:25] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.832 14:14:26] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:27] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:27] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:28] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:29] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:29] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:30] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:31] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:31] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:32] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.830 14:14:33] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.830 14:14:33] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:34] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.830 14:14:35] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:35] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:36] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:37] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:37] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:38] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:39] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.833 14:14:39] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.830 14:14:40] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:41] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:41] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:42] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:43] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:43] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:44] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:45] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:45] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:46] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:47] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.833 14:14:47] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.832 14:14:48] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:49] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:49] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.830 14:14:50] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:51] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.833 14:14:51] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:52] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:53] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.833 14:14:53] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.832 14:14:54] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:55] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:14:55] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:56] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:57] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.833 14:14:57] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:14:58] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:14:59] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.833 14:14:59] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.832 14:15:00] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:01] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:01] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.830 14:15:02] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:03] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:03] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:04] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:05] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.833 14:15:05] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:06] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:07] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:07] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.830 14:15:08] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:09] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:09] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.830 14:15:10] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:11] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:11] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:12] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:13] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:13] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:14] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:15] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:15] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.832 14:15:16] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:17] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:17] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:18] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:19] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:19] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:20] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:21] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:21] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.832 14:15:22] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:23] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:23] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:24] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:25] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:25] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.830 14:15:26] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:27] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:27] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:28] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:29] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:29] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:30] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:31] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:31] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:32] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:33] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.833 14:15:33] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:34] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.830 14:15:35] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:35] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:36] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:37] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:37] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:38] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:39] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:39] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:40] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:41] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:41] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.832 14:15:42] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:43] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:43] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:44] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:45] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:45] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:46] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:47] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:47] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:48] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:49] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:49] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:50] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:51] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:51] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:52] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:53] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:53] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:54] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.830 14:15:55] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.830 14:15:55] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:56] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:57] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:57] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:15:58] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:15:59] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:15:59] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.830 14:16:00] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:01] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:16:01] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:02] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:03] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:16:03] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:04] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:05] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:05] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:06] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:07] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:16:07] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:08] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:09] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:16:09] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:10] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:11] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:11] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:12] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:13] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:16:13] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:14] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:16:15] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.833 14:16:15] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:16] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:17] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:17] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:18] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:19] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:19] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:20] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:21] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:21] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:22] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:23] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:16:23] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:24] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:25] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.832 14:16:25] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:26] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.830 14:16:27] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:27] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.831 14:16:28] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.831 14:16:29] [game_lua] [info] Receive client ping req:	371089637376	Client	
+[2019-11-15.833 14:16:29] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.661 14:30:40] [game_lua] [info] Receive client ping req:	371095195648	Client	
+[2019-11-15.397 14:30:58] [game_lua] [info] Receive client login req:	lb	111	
+[2019-11-15.901 14:31:02] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_handlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/game/handlers.lua:14: in function 'handlers.game_Client_login_req'
+	./scripts/game/net.lua:36: in function <./scripts/game/net.lua:27>	
+[2019-11-15.698 14:32:33] [game_lua] [info] Receive client ping req:	371095195648	Client	
+[2019-11-15.570 14:33:33] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	pbhandler	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/game/net.lua:31: in function <./scripts/game/net.lua:27>	
+[2019-11-15.942 15:19:45] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:23: in main chunk	
+[2019-11-15.418 15:20:19] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:23: in main chunk	
+[2019-11-15.494 15:20:21] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/libs\strict.lua:22: in function <./scripts/libs\strict.lua:21>	
+[2019-11-15.847 15:20:28] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:23: in main chunk	
+[2019-11-15.321 15:32:19] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	GLOBAL	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	scripts/game/main.lua:23: in main chunk	
+[2019-11-15.945 15:32:24] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	GLOBAL	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	scripts\game\main.lua:23: in main chunk	
+[2019-11-15.119 15:36:37] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:23: in main chunk	
+[2019-11-15.793 15:36:38] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/libs\strict.lua:22: in function <./scripts/libs\strict.lua:21>	
+[2019-11-15.268 15:38:43] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:23: in main chunk	
+[2019-11-15.995 15:38:44] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	game	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:23: in main chunk	
+[2019-11-15.881 15:42:45] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:25: in main chunk	
+[2019-11-15.215 15:42:47] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:25: in main chunk	
+[2019-11-15.761 15:42:55] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:25: in main chunk	
+[2019-11-15.192 15:43:11] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.822 15:43:13] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.829 15:43:17] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.552 15:43:20] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.989 15:43:34] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.774 15:43:41] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.162 15:43:44] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.501 15:43:46] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.702 15:43:58] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.662 15:44:02] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.178 15:44:06] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.971 15:44:10] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.591 15:44:23] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	GLOBAL	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.767 15:44:29] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.941 15:44:32] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.749 15:44:35] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.788 15:46:57] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:25: in main chunk	
+[2019-11-15.349 15:47:08] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.217 15:47:11] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts\game\main.lua:25: in main chunk	
+[2019-11-15.455 15:48:24] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	Class	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:1: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:25: in main chunk	
+[2019-11-15.387 15:49:34] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/class.lua:4: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:24: in main chunk	
+[2019-11-15.000 15:49:38] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	CMySqlProxy	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts/game/main.lua:26: in main chunk	
+[2019-11-15.511 15:49:59] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	CMySqlProxy	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.816 15:50:02] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	CMySqlProxy	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts\game\main.lua:28: in main chunk	
+[2019-11-15.471 15:50:06] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	CMySqlProxy	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts\game\main.lua:28: in main chunk	
+[2019-11-15.922 15:52:24] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	CMySqlProxy	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.307 15:52:28] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:6: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.878 15:52:29] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:7: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.152 15:52:35] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.086 15:52:37] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	CMySqlProxy	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.667 15:52:54] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:6: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.377 15:52:55] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:7: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.986 15:52:55] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.163 15:52:57] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	CMySqlProxy	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.716 15:53:08] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.833 15:53:16] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	CMySqlProxy	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts/game/main.lua:28: in main chunk	
+[2019-11-15.878 15:53:20] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	CMySqlProxy	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts\game\main.lua:28: in main chunk	
+[2019-11-15.470 15:54:00] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts/game/main.lua:29: in main chunk	
+[2019-11-15.737 15:54:01] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:9: in function 'db_module.Init'
+	scripts/game/main.lua:29: in main chunk	
+[2019-11-15.207 15:54:09] [game_lua] [info] dbmodule game init success	
+[2019-11-15.207 15:54:09] [game_lua] [warning] ./scripts/libs\strict.lua#14: assign to undeclared variable '	MYSQLSUCESS	'	2	
+[2019-11-15.610 15:55:09] [game_lua] [info] dbmodule game init success	
+[2019-11-15.610 15:55:09] [game_lua] [warning] ./scripts/libs\strict.lua#14: assign to undeclared variable '	MYSQLSUCESS	'	2	
+[2019-11-15.417 15:58:29] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:8: in function 'db_module.Init'
+	scripts/game/main.lua:29: in main chunk	
+[2019-11-15.077 16:02:06] [game_lua] [info] dbmodule game init success	
+[2019-11-15.078 16:02:06] [game_lua] [warning] ./scripts/libs\strict.lua#14: assign to undeclared variable '	MYSQLSUCESS	'	2	
+[2019-11-15.326 16:03:15] [game_lua] [info] dbmodule game init success	
+[2019-11-15.874 16:52:52] [game_lua] [info] dbmodule game init success	
+[2019-11-15.061 16:52:56] [game_lua] [info] dbmodule game init success	
+[2019-11-15.803 16:53:12] [game_lua] [info] dbmodule game init success	
+[2019-11-15.189 16:53:16] [game_lua] [info] dbmodule game init success	
+[2019-11-15.080 16:53:29] [game_lua] [info] dbmodule game init success	
+[2019-11-15.959 16:53:31] [game_lua] [info] dbmodule game init success	
+[2019-11-15.337 16:53:37] [game_lua] [info] dbmodule game init success	
+[2019-11-15.678 16:53:41] [game_lua] [info] dbmodule game init success	
+[2019-11-15.938 16:53:41] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.433 16:53:55] [game_lua] [info] dbmodule game init success	
+[2019-11-15.695 16:53:55] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.421 16:53:57] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_test.lua:11: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.349 16:53:59] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_test.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.837 16:54:01] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_test.lua:11: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.698 16:54:02] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/libs\strict.lua:22: in function <./scripts/libs\strict.lua:21>	
+[2019-11-15.367 16:54:17] [game_lua] [info] dbmodule game init success	
+[2019-11-15.630 16:54:17] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.965 16:54:19] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_test.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.925 16:54:54] [game_lua] [info] dbmodule game init success	
+[2019-11-15.228 16:54:55] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.800 16:54:56] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_test.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.762 16:54:57] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_test.lua:11: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.525 16:54:58] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/libs\strict.lua:22: in function <./scripts/libs\strict.lua:21>	
+[2019-11-15.530 16:55:16] [game_lua] [info] dbmodule game init success	
+[2019-11-15.790 16:55:16] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.210 16:55:18] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_test.lua:2: in main chunk
+	[C]: in function 'require'
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.988 16:55:26] [game_lua] [info] dbmodule game init success	
+[2019-11-15.292 16:55:30] [game_lua] [info] dbmodule game init success	
+[2019-11-15.209 16:55:38] [game_lua] [info] dbmodule game init success	
+[2019-11-15.885 16:55:42] [game_lua] [info] dbmodule game init success	
+[2019-11-15.540 16:56:10] [game_lua] [info] dbmodule game init success	
+[2019-11-15.803 16:56:10] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:31: in main chunk	
+[2019-11-15.441 16:58:37] [game_lua] [info] dbmodule game init success	
+[2019-11-15.738 16:58:37] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.955 16:58:38] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.378 16:58:40] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:28: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.763 16:58:42] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.045 16:58:45] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:31: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.857 16:58:45] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.121 16:58:46] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	GetTableSize	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db\db_command.lua:8: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.577 16:59:16] [game_lua] [info] dbmodule game init success	
+[2019-11-15.838 16:59:16] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.375 16:59:19] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.137 16:59:20] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:28: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.694 16:59:20] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.877 16:59:26] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:31: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.941 16:59:27] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.449 16:59:28] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.665 16:59:29] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:2: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.833 16:59:30] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:3: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.188 16:59:31] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:4: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.593 16:59:31] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:5: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.948 16:59:31] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:8: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.202 16:59:32] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:8: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.262 16:59:32] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	GetTableSize	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db\db_command.lua:8: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.778 16:59:43] [game_lua] [info] dbmodule game init success	
+[2019-11-15.498 16:59:44] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.513 16:59:45] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.424 16:59:46] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:38: in main chunk
+	[C]: in function 'require'
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.305 16:59:48] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:1: in main chunk
+	[C]: in function 'require'
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.168 16:59:49] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/libs\strict.lua:11: in metamethod '__newindex'
+	./scripts/db\db_command.lua:1: in main chunk
+	[C]: in function 'require'
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.334 16:59:50] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/libs\strict.lua:12: in metamethod '__newindex'
+	./scripts/db\db_command.lua:1: in main chunk
+	[C]: in function 'require'
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.399 16:59:51] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/libs\strict.lua:16: in metamethod '__newindex'
+	./scripts/db\db_command.lua:1: in main chunk
+	[C]: in function 'require'
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.654 16:59:51] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/libs\strict.lua:16: in metamethod '__newindex'
+	./scripts/db\db_command.lua:1: in main chunk
+	[C]: in function 'require'
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.160 16:59:52] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/libs\strict.lua:18: in metamethod '__newindex'
+	./scripts/db\db_command.lua:1: in main chunk
+	[C]: in function 'require'
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.718 16:59:52] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/libs\strict.lua:19: in metamethod '__newindex'
+	./scripts/db\db_command.lua:1: in main chunk
+	[C]: in function 'require'
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.378 16:59:53] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:68: in main chunk
+	[C]: in function 'require'
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.954 16:59:54] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:40: in main chunk
+	[C]: in function 'require'
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.765 16:59:55] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:118: in main chunk
+	[C]: in function 'require'
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.844 16:59:56] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	GetTableSize	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db\db_command.lua:8: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.651 16:59:59] [game_lua] [info] dbmodule game init success	
+[2019-11-15.911 16:59:59] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.179 17:00:01] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.145 17:00:02] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:28: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.856 17:00:02] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.236 17:00:05] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:31: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.352 17:00:06] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.012 17:00:07] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.228 17:00:08] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:2: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.396 17:00:09] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:3: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.903 17:00:09] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:4: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.411 17:00:10] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:5: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.920 17:00:10] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:7: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.479 17:00:11] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:8: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.732 17:00:11] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	GetTableSize	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:8: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.300 17:02:39] [game_lua] [info] dbmodule game init success	
+[2019-11-15.563 17:02:39] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.809 17:02:42] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.619 17:02:43] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:28: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.126 17:02:44] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.583 17:02:44] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:31: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.088 17:02:45] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.850 17:02:45] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.268 17:02:46] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	GetTableSize	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	./scripts/db\db_command.lua:8: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.322 17:02:57] [game_lua] [info] dbmodule game init success	
+[2019-11-15.584 17:02:57] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.392 17:03:01] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.356 17:03:02] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:28: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.863 17:03:02] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.369 17:03:03] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:31: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.776 17:03:03] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.233 17:03:04] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.297 17:03:05] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:2: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.109 17:03:06] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:3: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.465 17:03:06] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:4: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.821 17:03:06] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	GetTableSize	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:4: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.532 17:03:07] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:5: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.141 17:03:08] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:7: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.702 17:03:08] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:8: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.259 17:03:09] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	GetTableSize	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:8: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:30: in main chunk	
+[2019-11-15.212 17:04:13] [game_lua] [info] dbmodule game init success	
+[2019-11-15.472 17:04:13] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.113 17:04:16] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:26: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.025 17:04:17] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:28: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.533 17:04:17] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.648 17:04:18] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:31: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.154 17:04:19] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.660 17:04:19] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.675 17:04:20] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:2: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.906 17:04:22] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:3: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.412 17:04:23] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:4: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.716 17:04:23] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:5: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.121 17:04:24] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:7: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.390 17:04:25] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:8: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.999 17:04:25] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:9: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.608 17:04:26] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:10: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.063 17:04:27] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:11: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.368 17:04:27] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:14: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.876 17:04:27] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:10: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.132 17:04:28] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:10: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.488 17:04:28] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:11: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.842 17:04:28] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:12: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.197 17:04:29] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:14: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.957 17:04:29] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:15: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.312 17:04:30] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:10: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.171 17:04:31] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:11: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.677 17:04:31] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:12: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.135 17:04:32] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:14: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.794 17:04:32] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:15: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.150 17:04:33] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:10: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.607 17:04:33] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:12: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.810 17:04:33] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:12: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.166 17:04:34] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:14: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.993 17:04:35] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:10: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.247 17:04:36] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:10: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.756 17:04:36] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:18: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.212 17:04:37] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:20: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.921 17:04:37] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:21: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.275 17:04:38] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:23: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.528 17:04:38] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:23: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.087 17:04:39] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:27: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.341 17:04:39] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:27: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.002 17:04:40] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:28: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.458 17:04:40] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:29: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.915 17:04:40] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:30: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.219 17:04:41] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:22: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.625 17:04:41] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:23: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.930 17:04:41] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:24: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.285 17:04:42] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:26: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.641 17:04:42] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:27: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.997 17:04:42] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:28: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.353 17:04:43] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:29: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.265 17:04:44] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:30: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.670 17:04:44] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:22: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.075 17:04:45] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:23: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.481 17:04:45] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:24: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.939 17:04:45] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:26: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.244 17:04:46] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:27: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.752 17:04:46] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:28: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.259 17:04:47] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:29: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.716 17:04:47] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:22: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.920 17:04:47] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:22: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.188 17:04:49] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:24: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.443 17:04:49] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:24: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.899 17:04:49] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:26: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.204 17:04:50] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:28: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.458 17:04:50] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:28: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.916 17:04:50] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:29: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.323 17:04:51] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:30: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.731 17:04:51] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:22: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.085 17:04:52] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:36: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.441 17:04:52] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:37: in function 'GetInsertSQL'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.455 17:04:53] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:373: in function 'db.db_command.ExcecuteSql'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.650 17:04:56] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:374: in function 'db.db_command.ExcecuteSql'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.173 17:04:58] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:381: in function 'db.db_command.ExcecuteSql'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.933 17:04:58] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:374: in function 'db.db_command.ExcecuteSql'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.542 17:04:59] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:382: in function 'db.db_command.ExcecuteSql'
+	./scripts/db\db_command.lua:345: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.810 17:05:00] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db\db_command.lua:346: in function 'db.db_command.Insert'
+	./scripts/db/db_module.lua:30: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	
+[2019-11-15.437 17:05:02] [game_lua] [warning] ./scripts/libs\strict.lua#23: variable '	_pbhandlers	' is not declared	stack traceback:
+	./scripts/libs\strict.lua:23: in metamethod '__index'
+	(eval):3: in function <(eval):2>
+	(...tail calls...)
+	./scripts/db/db_module.lua:33: in function 'db_module.dbtest'
+	scripts/game/main.lua:32: in main chunk	

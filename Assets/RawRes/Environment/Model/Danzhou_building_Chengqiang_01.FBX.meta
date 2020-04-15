@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: be52a268dfc574341b3913f774b7df1f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Danzhou_building_Chengqiang_01_01
+    100004: Danzhou_building_Chengqiang_01_02
+    100006: Danzhou_Building_Chengqiang_06_01
+    100008: Danzhou_Building_Chengqiang_06_02
+    100010: Danzhou_Building_Chengqiang_06_03
+    100012: Danzhou_Building_Chengqiang_06_04
+    100014: Danzhou_Building_Chengqiang_06_05
+    100016: Danzhou_Building_Chengqiang_06_06
+    100018: Danzhou_Building_Chengqiang_06_07
+    100020: Danzhou_Building_Chengqiang_06_08
+    100022: Danzhou_Building_Chengqiang_06_09
+    100024: Danzhou_Building_Chengqiang_06_10
+    100026: Danzhou_Building_Chengqiang_06_11
+    100028: Danzhou_Building_Chengqiang_06_12
+    100030: Danzhou_Building_Chengqiang_06_13
+    100032: Danzhou_Building_Chengqiang_06_14
+    400000: //RootNode
+    400002: Danzhou_building_Chengqiang_01_01
+    400004: Danzhou_building_Chengqiang_01_02
+    400006: Danzhou_Building_Chengqiang_06_01
+    400008: Danzhou_Building_Chengqiang_06_02
+    400010: Danzhou_Building_Chengqiang_06_03
+    400012: Danzhou_Building_Chengqiang_06_04
+    400014: Danzhou_Building_Chengqiang_06_05
+    400016: Danzhou_Building_Chengqiang_06_06
+    400018: Danzhou_Building_Chengqiang_06_07
+    400020: Danzhou_Building_Chengqiang_06_08
+    400022: Danzhou_Building_Chengqiang_06_09
+    400024: Danzhou_Building_Chengqiang_06_10
+    400026: Danzhou_Building_Chengqiang_06_11
+    400028: Danzhou_Building_Chengqiang_06_12
+    400030: Danzhou_Building_Chengqiang_06_13
+    400032: Danzhou_Building_Chengqiang_06_14
+    2100000: Danzhou_Ground_21_d
+    2100002: Danzhou_Ground_04_d
+    2100004: Danzhou_building_Chengqiang_01_mat
+    2100006: Danzhou_Ground_04_mat
+    2100008: Danzhou_Ground_06_mat
+    2100010: Danzhou_building_chengqiang_02_mat
+    2100012: Danzhou_Ground_07_mat
+    2100014: Public_Building_06_04_mat
+    2100016: Public_Building_06_03_mat
+    2100018: Public_Building_06_07_mat
+    2100020: Public_Building_06_06_mat
+    2100022: Public_Building_06_01_mat
+    2100024: Public_Building_06_02_mat
+    2100026: Danzhou_Ground_08_mat
+    2300000: Danzhou_building_Chengqiang_01_01
+    2300002: Danzhou_building_Chengqiang_01_02
+    2300004: //RootNode
+    2300006: Danzhou_Building_Chengqiang_06_01
+    2300008: Danzhou_Building_Chengqiang_06_02
+    2300010: Danzhou_Building_Chengqiang_06_03
+    2300012: Danzhou_Building_Chengqiang_06_04
+    2300014: Danzhou_Building_Chengqiang_06_05
+    2300016: Danzhou_Building_Chengqiang_06_06
+    2300018: Danzhou_Building_Chengqiang_06_07
+    2300020: Danzhou_Building_Chengqiang_06_08
+    2300022: Danzhou_Building_Chengqiang_06_09
+    2300024: Danzhou_Building_Chengqiang_06_10
+    2300026: Danzhou_Building_Chengqiang_06_11
+    2300028: Danzhou_Building_Chengqiang_06_12
+    2300030: Danzhou_Building_Chengqiang_06_13
+    2300032: Danzhou_Building_Chengqiang_06_14
+    3300000: Danzhou_building_Chengqiang_01_01
+    3300002: Danzhou_building_Chengqiang_01_02
+    3300004: //RootNode
+    3300006: Danzhou_Building_Chengqiang_06_01
+    3300008: Danzhou_Building_Chengqiang_06_02
+    3300010: Danzhou_Building_Chengqiang_06_03
+    3300012: Danzhou_Building_Chengqiang_06_04
+    3300014: Danzhou_Building_Chengqiang_06_05
+    3300016: Danzhou_Building_Chengqiang_06_06
+    3300018: Danzhou_Building_Chengqiang_06_07
+    3300020: Danzhou_Building_Chengqiang_06_08
+    3300022: Danzhou_Building_Chengqiang_06_09
+    3300024: Danzhou_Building_Chengqiang_06_10
+    3300026: Danzhou_Building_Chengqiang_06_11
+    3300028: Danzhou_Building_Chengqiang_06_12
+    3300030: Danzhou_Building_Chengqiang_06_13
+    3300032: Danzhou_Building_Chengqiang_06_14
+    4300000: Danzhou_building_Chengqiang_01_01
+    4300002: Danzhou_building_Chengqiang_01_02
+    4300004: Danzhou_building_Chengqiang_01
+    4300006: Danzhou_Building_Chengqiang_06_02
+    4300008: Danzhou_Building_Chengqiang_06_08
+    4300010: Danzhou_Building_Chengqiang_06_04
+    4300012: Danzhou_Building_Chengqiang_06_09
+    4300014: Danzhou_Building_Chengqiang_06_10
+    4300016: Danzhou_Building_Chengqiang_06_07
+    4300018: Danzhou_Building_Chengqiang_06_06
+    4300020: Danzhou_Building_Chengqiang_06_13
+    4300022: Danzhou_Building_Chengqiang_06_05
+    4300024: Danzhou_Building_Chengqiang_06_11
+    4300026: Danzhou_Building_Chengqiang_06_14
+    4300028: Danzhou_Building_Chengqiang_06_12
+    4300030: Danzhou_Building_Chengqiang_06_03
+    4300032: Danzhou_Building_Chengqiang_06_01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danzhou_Ground_04_d
+    second: {fileID: 2100000, guid: 1f579970b91ed7844a45433a03007c53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danzhou_Ground_04_mat
+    second: {fileID: 2100000, guid: 1f579970b91ed7844a45433a03007c53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danzhou_Ground_06_mat
+    second: {fileID: 2100000, guid: 04a961f6b0160604f945b925b9186ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danzhou_Ground_07_mat
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danzhou_Ground_08_mat
+    second: {fileID: 2100000, guid: cf9222a26e2832d44b6fe99ff751e511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danzhou_Ground_08_mat1
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danzhou_Ground_11_mat
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danzhou_Ground_21_d
+    second: {fileID: 2100000, guid: 8ffafefde0199d04b81c7069376a1274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danzhou_building_Chengqiang_01_mat
+    second: {fileID: 2100000, guid: dff19071bab0f6c4a83b4323942a1725, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danzhou_building_chengqiang_02_Mat
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danzhou_building_chengqiang_02_mat
+    second: {fileID: 2100000, guid: e6abae98a2576f64db90f1ded9f292d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_01_mat
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_02_mat
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_03_Mat
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_03_mat
+    second: {fileID: 2100000, guid: 20c924bea867ca241b9e329190ed3068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_04_Mat
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_04_mat
+    second: {fileID: 2100000, guid: eed2dfdb37958d641839256c6743d327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_06_Mat
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_06_mat
+    second: {fileID: 2100000, guid: 43ef83a6d1b31e54f901d5d3d4a71c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_07_Mat
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_07_mat
+    second: {fileID: 2100000, guid: 864582b33586ac745a5b9235f7d97717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qingguo_ground_01_Mat
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

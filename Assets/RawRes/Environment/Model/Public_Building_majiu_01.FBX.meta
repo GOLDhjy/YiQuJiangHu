@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: fc2744710a55d0e4a865c3cac06301f2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: //RootNode
+    100006: Public_Building_majiu_01
+    100008: UCX_Public_Building_majiu_01_01
+    100010: UCX_Public_Building_majiu_01_02
+    100012: UCX_Public_Building_majiu_01_03
+    100014: UCX_Public_Building_majiu_01_04
+    100016: UCX_Public_Building_majiu_01_05
+    100018: UCX_Public_Building_majiu_01_06
+    100020: UCX_Public_Building_majiu_01_07
+    100022: UCX_Public_Building_majiu_01_08
+    100024: UCX_Public_Building_majiu_01_017
+    100026: UCX_Public_Building_majiu_01_09
+    100028: UCX_Public_Building_majiu_01_10
+    100030: UCX_Public_Building_majiu_01_11
+    100032: UCX_Public_Building_majiu_01_12
+    100034: UCX_Public_Building_majiu_01_13
+    100036: UCX_Public_Building_majiu_01_14
+    100038: UCX_Public_Building_majiu_01_15
+    100040: UCX_Public_Building_majiu_01_16
+    100042: UCX_Public_Building_majiu_01_018
+    400000: Box001
+    400002: Box002
+    400004: Public_Building_majiu_01
+    400006: //RootNode
+    400008: UCX_Public_Building_majiu_01_01
+    400010: UCX_Public_Building_majiu_01_02
+    400012: UCX_Public_Building_majiu_01_03
+    400014: UCX_Public_Building_majiu_01_04
+    400016: UCX_Public_Building_majiu_01_05
+    400018: UCX_Public_Building_majiu_01_06
+    400020: UCX_Public_Building_majiu_01_07
+    400022: UCX_Public_Building_majiu_01_08
+    400024: UCX_Public_Building_majiu_01_017
+    400026: UCX_Public_Building_majiu_01_09
+    400028: UCX_Public_Building_majiu_01_10
+    400030: UCX_Public_Building_majiu_01_11
+    400032: UCX_Public_Building_majiu_01_12
+    400034: UCX_Public_Building_majiu_01_13
+    400036: UCX_Public_Building_majiu_01_14
+    400038: UCX_Public_Building_majiu_01_15
+    400040: UCX_Public_Building_majiu_01_16
+    400042: UCX_Public_Building_majiu_01_018
+    2100000: 'Material #144'
+    2100002: 'Material #145'
+    2100004: 'Material #147'
+    2100006: No Name
+    2100008: 15 - Default
+    2100010: 01 - Default
+    2100012: 'Material #61'
+    2100014: 'Material #60'
+    2100016: 'Material #59'
+    2100018: 'Material #149'
+    2300000: Box001
+    2300002: Box002
+    2300004: Public_Building_majiu_01
+    2300006: UCX_Public_Building_majiu_01_01
+    2300008: UCX_Public_Building_majiu_01_02
+    2300010: UCX_Public_Building_majiu_01_03
+    2300012: UCX_Public_Building_majiu_01_04
+    2300014: UCX_Public_Building_majiu_01_05
+    2300016: UCX_Public_Building_majiu_01_06
+    2300018: UCX_Public_Building_majiu_01_07
+    2300020: UCX_Public_Building_majiu_01_08
+    2300022: UCX_Public_Building_majiu_01_017
+    2300024: UCX_Public_Building_majiu_01_09
+    2300026: UCX_Public_Building_majiu_01_10
+    2300028: UCX_Public_Building_majiu_01_11
+    2300030: UCX_Public_Building_majiu_01_12
+    2300032: UCX_Public_Building_majiu_01_13
+    2300034: UCX_Public_Building_majiu_01_14
+    2300036: UCX_Public_Building_majiu_01_15
+    2300038: UCX_Public_Building_majiu_01_16
+    2300040: UCX_Public_Building_majiu_01_018
+    2300042: //RootNode
+    3300000: Box001
+    3300002: Box002
+    3300004: Public_Building_majiu_01
+    3300006: UCX_Public_Building_majiu_01_01
+    3300008: UCX_Public_Building_majiu_01_02
+    3300010: UCX_Public_Building_majiu_01_03
+    3300012: UCX_Public_Building_majiu_01_04
+    3300014: UCX_Public_Building_majiu_01_05
+    3300016: UCX_Public_Building_majiu_01_06
+    3300018: UCX_Public_Building_majiu_01_07
+    3300020: UCX_Public_Building_majiu_01_08
+    3300022: UCX_Public_Building_majiu_01_017
+    3300024: UCX_Public_Building_majiu_01_09
+    3300026: UCX_Public_Building_majiu_01_10
+    3300028: UCX_Public_Building_majiu_01_11
+    3300030: UCX_Public_Building_majiu_01_12
+    3300032: UCX_Public_Building_majiu_01_13
+    3300034: UCX_Public_Building_majiu_01_14
+    3300036: UCX_Public_Building_majiu_01_15
+    3300038: UCX_Public_Building_majiu_01_16
+    3300040: UCX_Public_Building_majiu_01_018
+    3300042: //RootNode
+    4300000: Public_Building_majiu_01
+    4300002: Box001
+    4300004: Box002
+    4300006: UCX_Public_Building_majiu_01_01
+    4300008: UCX_Public_Building_majiu_01_03
+    4300010: UCX_Public_Building_majiu_01_02
+    4300012: UCX_Public_Building_majiu_01_04
+    4300014: UCX_Public_Building_majiu_01_06
+    4300016: UCX_Public_Building_majiu_01_05
+    4300018: UCX_Public_Building_majiu_01_08
+    4300020: UCX_Public_Building_majiu_01_07
+    4300022: UCX_Public_Building_majiu_01_13
+    4300024: UCX_Public_Building_majiu_01_11
+    4300026: UCX_Public_Building_majiu_01_09
+    4300028: UCX_Public_Building_majiu_01_15
+    4300030: UCX_Public_Building_majiu_01_10
+    4300032: UCX_Public_Building_majiu_01_14
+    4300034: UCX_Public_Building_majiu_01_12
+    4300036: UCX_Public_Building_majiu_01_16
+    4300038: UCX_Public_Building_majiu_01_017
+    4300040: UCX_Public_Building_majiu_01_018
+    4300042: Object001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: 251e7bc59084d5141a7b3aacb0759aca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #144'
+    second: {fileID: 2100000, guid: 251e7bc59084d5141a7b3aacb0759aca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #145'
+    second: {fileID: 2100000, guid: b89887c436081f04496e082691d20b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #147'
+    second: {fileID: 2100000, guid: 40e033374dfee9345bde542d56023e21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #149'
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #59'
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #60'
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #61'
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

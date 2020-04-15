@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 262f9a66a1900374db86f28aa2176b38
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Public_Building_langdao_01_01
+    100002: Public_Building_langdao_01_02
+    100004: Public_Building_langdao_01_03
+    100006: Public_Building_langdao_01_04
+    100008: //RootNode
+    100010: UCX_Public_Building_langdao_01_04_01
+    100012: UCX_Public_Building_langdao_01_04_02
+    100014: UCX_Public_Building_langdao_01_04_03
+    100016: UCX_Public_Building_langdao_01_04_04
+    100018: UCX_Public_Building_langdao_01_04_05
+    100020: UCX_Public_Building_langdao_01_04_06
+    100022: UCX_Public_Building_langdao_01_04_07
+    100024: UCX_Public_Building_langdao_01_04_08
+    100026: UCX_Public_Building_langdao_01_04_09
+    100028: UCX_Public_Building_langdao_01_04_10
+    100030: UCX_Public_Building_langdao_01_04_11
+    100032: UCX_Public_Building_langdao_01_04_12
+    100034: UCX_Public_Building_langdao_01_04_13
+    100036: UCX_Public_Building_langdao_01_04_14
+    100038: UCX_Public_Building_langdao_01_04_15
+    100040: UCX_Public_Building_langdao_01_06_01
+    100042: UCX_Public_Building_langdao_01_06_02
+    100044: UCX_Public_Building_langdao_01_06_03
+    100046: UCX_Public_Building_langdao_01_06_04
+    100048: UCX_Public_Building_langdao_01_06_05
+    100050: UCX_Public_Building_langdao_01_06_06
+    100052: UCX_Public_Building_langdao_01_06_07
+    100054: UCX_Public_Building_langdao_01_06_08
+    100056: UCX_Public_Building_langdao_01_06_09
+    100058: UCX_Public_Building_langdao_01_06_10
+    100060: UCX_Public_Building_langdao_01_06_11
+    100062: UCX_Public_Building_langdao_01_06_12
+    100064: UCX_Public_Building_langdao_01_06_13
+    100066: UCX_Public_Building_langdao_01_06_14
+    100068: UCX_Public_Building_langdao_01_06_15
+    100070: UCX_Public_Building_langdao_01_06_16
+    100072: UCX_Public_Building_langdao_01_06_17
+    100074: UCX_Public_Building_langdao_01_06_18
+    100076: UCX_Public_Building_langdao_01_06_19
+    100078: UCX_Public_Building_langdao_01_06_20
+    100080: UCX_Public_Building_langdao_01_06_21
+    100082: UCX_Public_Building_langdao_01_08_01
+    100084: UCX_Public_Building_langdao_01_08_01 1
+    100086: UCX_Public_Building_langdao_01_08_02
+    100088: UCX_Public_Building_langdao_01_08_02 1
+    100090: UCX_Public_Building_langdao_01_08_03
+    100092: UCX_Public_Building_langdao_01_08_03 1
+    100094: UCX_Public_Building_langdao_01_08_04
+    100096: UCX_Public_Building_langdao_01_08_04 1
+    100098: UCX_Public_Building_langdao_01_08_05
+    100100: UCX_Public_Building_langdao_01_08_05 1
+    100102: UCX_Public_Building_langdao_01_08_06
+    100104: UCX_Public_Building_langdao_01_08_06 1
+    100106: UCX_Public_Building_langdao_01_08_07
+    100108: UCX_Public_Building_langdao_01_08_07 1
+    100110: UCX_Public_Building_langdao_01_08_08
+    100112: UCX_Public_Building_langdao_01_08_08 1
+    100114: UCX_Public_Building_langdao_01_08_09
+    100116: UCX_Public_Building_langdao_01_08_09 1
+    100118: UCX_Public_Building_langdao_01_08_10
+    100120: UCX_Public_Building_langdao_01_08_10 1
+    100122: UCX_Public_Building_langdao_01_08_11
+    100124: UCX_Public_Building_langdao_01_08_11 1
+    100126: UCX_Public_Building_langdao_01_08_12
+    100128: UCX_Public_Building_langdao_01_08_12 1
+    100130: UCX_Public_Building_langdao_01_08_13
+    100132: UCX_Public_Building_langdao_01_08_13 1
+    100134: UCX_Public_Building_langdao_01_08_14
+    100136: UCX_Public_Building_langdao_01_08_14 1
+    100138: UCX_Public_Building_langdao_01_08_15
+    100140: UCX_Public_Building_langdao_01_08_15 1
+    100142: UCX_Public_Building_langdao_01_08_16
+    100144: UCX_Public_Building_langdao_01_08_16 1
+    100146: UCX_Public_Building_langdao_01_08_17
+    100148: UCX_Public_Building_langdao_01_08_17 1
+    100150: Public_Building_langdao_09
+    400000: Public_Building_langdao_01_01
+    400002: Public_Building_langdao_01_02
+    400004: Public_Building_langdao_01_03
+    400006: Public_Building_langdao_01_04
+    400008: //RootNode
+    400010: UCX_Public_Building_langdao_01_04_01
+    400012: UCX_Public_Building_langdao_01_04_02
+    400014: UCX_Public_Building_langdao_01_04_03
+    400016: UCX_Public_Building_langdao_01_04_04
+    400018: UCX_Public_Building_langdao_01_04_05
+    400020: UCX_Public_Building_langdao_01_04_06
+    400022: UCX_Public_Building_langdao_01_04_07
+    400024: UCX_Public_Building_langdao_01_04_08
+    400026: UCX_Public_Building_langdao_01_04_09
+    400028: UCX_Public_Building_langdao_01_04_10
+    400030: UCX_Public_Building_langdao_01_04_11
+    400032: UCX_Public_Building_langdao_01_04_12
+    400034: UCX_Public_Building_langdao_01_04_13
+    400036: UCX_Public_Building_langdao_01_04_14
+    400038: UCX_Public_Building_langdao_01_04_15
+    400040: UCX_Public_Building_langdao_01_06_01
+    400042: UCX_Public_Building_langdao_01_06_02
+    400044: UCX_Public_Building_langdao_01_06_03
+    400046: UCX_Public_Building_langdao_01_06_04
+    400048: UCX_Public_Building_langdao_01_06_05
+    400050: UCX_Public_Building_langdao_01_06_06
+    400052: UCX_Public_Building_langdao_01_06_07
+    400054: UCX_Public_Building_langdao_01_06_08
+    400056: UCX_Public_Building_langdao_01_06_09
+    400058: UCX_Public_Building_langdao_01_06_10
+    400060: UCX_Public_Building_langdao_01_06_11
+    400062: UCX_Public_Building_langdao_01_06_12
+    400064: UCX_Public_Building_langdao_01_06_13
+    400066: UCX_Public_Building_langdao_01_06_14
+    400068: UCX_Public_Building_langdao_01_06_15
+    400070: UCX_Public_Building_langdao_01_06_16
+    400072: UCX_Public_Building_langdao_01_06_17
+    400074: UCX_Public_Building_langdao_01_06_18
+    400076: UCX_Public_Building_langdao_01_06_19
+    400078: UCX_Public_Building_langdao_01_06_20
+    400080: UCX_Public_Building_langdao_01_06_21
+    400082: UCX_Public_Building_langdao_01_08_01
+    400084: UCX_Public_Building_langdao_01_08_01 1
+    400086: UCX_Public_Building_langdao_01_08_02
+    400088: UCX_Public_Building_langdao_01_08_02 1
+    400090: UCX_Public_Building_langdao_01_08_03
+    400092: UCX_Public_Building_langdao_01_08_03 1
+    400094: UCX_Public_Building_langdao_01_08_04
+    400096: UCX_Public_Building_langdao_01_08_04 1
+    400098: UCX_Public_Building_langdao_01_08_05
+    400100: UCX_Public_Building_langdao_01_08_05 1
+    400102: UCX_Public_Building_langdao_01_08_06
+    400104: UCX_Public_Building_langdao_01_08_06 1
+    400106: UCX_Public_Building_langdao_01_08_07
+    400108: UCX_Public_Building_langdao_01_08_07 1
+    400110: UCX_Public_Building_langdao_01_08_08
+    400112: UCX_Public_Building_langdao_01_08_08 1
+    400114: UCX_Public_Building_langdao_01_08_09
+    400116: UCX_Public_Building_langdao_01_08_09 1
+    400118: UCX_Public_Building_langdao_01_08_10
+    400120: UCX_Public_Building_langdao_01_08_10 1
+    400122: UCX_Public_Building_langdao_01_08_11
+    400124: UCX_Public_Building_langdao_01_08_11 1
+    400126: UCX_Public_Building_langdao_01_08_12
+    400128: UCX_Public_Building_langdao_01_08_12 1
+    400130: UCX_Public_Building_langdao_01_08_13
+    400132: UCX_Public_Building_langdao_01_08_13 1
+    400134: UCX_Public_Building_langdao_01_08_14
+    400136: UCX_Public_Building_langdao_01_08_14 1
+    400138: UCX_Public_Building_langdao_01_08_15
+    400140: UCX_Public_Building_langdao_01_08_15 1
+    400142: UCX_Public_Building_langdao_01_08_16
+    400144: UCX_Public_Building_langdao_01_08_16 1
+    400146: UCX_Public_Building_langdao_01_08_17
+    400148: UCX_Public_Building_langdao_01_08_17 1
+    400150: Public_Building_langdao_09
+    2100000: Public_Building_06_02_mat2
+    2100002: Public_Building_06_03_mat2
+    2100004: Public_Building_06_07_mat2
+    2100006: Public_Building_06_04_mat2
+    2100008: Standard_8
+    2300000: Public_Building_langdao_01_01
+    2300002: Public_Building_langdao_01_02
+    2300004: Public_Building_langdao_01_03
+    2300006: Public_Building_langdao_01_04
+    2300008: UCX_Public_Building_langdao_01_04_01
+    2300010: UCX_Public_Building_langdao_01_04_02
+    2300012: UCX_Public_Building_langdao_01_04_03
+    2300014: UCX_Public_Building_langdao_01_04_04
+    2300016: UCX_Public_Building_langdao_01_04_05
+    2300018: UCX_Public_Building_langdao_01_04_06
+    2300020: UCX_Public_Building_langdao_01_04_07
+    2300022: UCX_Public_Building_langdao_01_04_08
+    2300024: UCX_Public_Building_langdao_01_04_09
+    2300026: UCX_Public_Building_langdao_01_04_10
+    2300028: UCX_Public_Building_langdao_01_04_11
+    2300030: UCX_Public_Building_langdao_01_04_12
+    2300032: UCX_Public_Building_langdao_01_04_13
+    2300034: UCX_Public_Building_langdao_01_04_14
+    2300036: UCX_Public_Building_langdao_01_04_15
+    2300038: UCX_Public_Building_langdao_01_06_01
+    2300040: UCX_Public_Building_langdao_01_06_02
+    2300042: UCX_Public_Building_langdao_01_06_03
+    2300044: UCX_Public_Building_langdao_01_06_04
+    2300046: UCX_Public_Building_langdao_01_06_05
+    2300048: UCX_Public_Building_langdao_01_06_06
+    2300050: UCX_Public_Building_langdao_01_06_07
+    2300052: UCX_Public_Building_langdao_01_06_08
+    2300054: UCX_Public_Building_langdao_01_06_09
+    2300056: UCX_Public_Building_langdao_01_06_10
+    2300058: UCX_Public_Building_langdao_01_06_11
+    2300060: UCX_Public_Building_langdao_01_06_12
+    2300062: UCX_Public_Building_langdao_01_06_13
+    2300064: UCX_Public_Building_langdao_01_06_14
+    2300066: UCX_Public_Building_langdao_01_06_15
+    2300068: UCX_Public_Building_langdao_01_06_16
+    2300070: UCX_Public_Building_langdao_01_06_17
+    2300072: UCX_Public_Building_langdao_01_06_18
+    2300074: UCX_Public_Building_langdao_01_06_19
+    2300076: UCX_Public_Building_langdao_01_06_20
+    2300078: UCX_Public_Building_langdao_01_06_21
+    2300080: UCX_Public_Building_langdao_01_08_01
+    2300082: UCX_Public_Building_langdao_01_08_01 1
+    2300084: UCX_Public_Building_langdao_01_08_02
+    2300086: UCX_Public_Building_langdao_01_08_02 1
+    2300088: UCX_Public_Building_langdao_01_08_03
+    2300090: UCX_Public_Building_langdao_01_08_03 1
+    2300092: UCX_Public_Building_langdao_01_08_04
+    2300094: UCX_Public_Building_langdao_01_08_04 1
+    2300096: UCX_Public_Building_langdao_01_08_05
+    2300098: UCX_Public_Building_langdao_01_08_05 1
+    2300100: UCX_Public_Building_langdao_01_08_06
+    2300102: UCX_Public_Building_langdao_01_08_06 1
+    2300104: UCX_Public_Building_langdao_01_08_07
+    2300106: UCX_Public_Building_langdao_01_08_07 1
+    2300108: UCX_Public_Building_langdao_01_08_08
+    2300110: UCX_Public_Building_langdao_01_08_08 1
+    2300112: UCX_Public_Building_langdao_01_08_09
+    2300114: UCX_Public_Building_langdao_01_08_09 1
+    2300116: UCX_Public_Building_langdao_01_08_10
+    2300118: UCX_Public_Building_langdao_01_08_10 1
+    2300120: UCX_Public_Building_langdao_01_08_11
+    2300122: UCX_Public_Building_langdao_01_08_11 1
+    2300124: UCX_Public_Building_langdao_01_08_12
+    2300126: UCX_Public_Building_langdao_01_08_12 1
+    2300128: UCX_Public_Building_langdao_01_08_13
+    2300130: UCX_Public_Building_langdao_01_08_13 1
+    2300132: UCX_Public_Building_langdao_01_08_14
+    2300134: UCX_Public_Building_langdao_01_08_14 1
+    2300136: UCX_Public_Building_langdao_01_08_15
+    2300138: UCX_Public_Building_langdao_01_08_15 1
+    2300140: UCX_Public_Building_langdao_01_08_16
+    2300142: UCX_Public_Building_langdao_01_08_16 1
+    2300144: UCX_Public_Building_langdao_01_08_17
+    2300146: UCX_Public_Building_langdao_01_08_17 1
+    3300000: Public_Building_langdao_01_01
+    3300002: Public_Building_langdao_01_02
+    3300004: Public_Building_langdao_01_03
+    3300006: Public_Building_langdao_01_04
+    3300008: UCX_Public_Building_langdao_01_04_01
+    3300010: UCX_Public_Building_langdao_01_04_02
+    3300012: UCX_Public_Building_langdao_01_04_03
+    3300014: UCX_Public_Building_langdao_01_04_04
+    3300016: UCX_Public_Building_langdao_01_04_05
+    3300018: UCX_Public_Building_langdao_01_04_06
+    3300020: UCX_Public_Building_langdao_01_04_07
+    3300022: UCX_Public_Building_langdao_01_04_08
+    3300024: UCX_Public_Building_langdao_01_04_09
+    3300026: UCX_Public_Building_langdao_01_04_10
+    3300028: UCX_Public_Building_langdao_01_04_11
+    3300030: UCX_Public_Building_langdao_01_04_12
+    3300032: UCX_Public_Building_langdao_01_04_13
+    3300034: UCX_Public_Building_langdao_01_04_14
+    3300036: UCX_Public_Building_langdao_01_04_15
+    3300038: UCX_Public_Building_langdao_01_06_01
+    3300040: UCX_Public_Building_langdao_01_06_02
+    3300042: UCX_Public_Building_langdao_01_06_03
+    3300044: UCX_Public_Building_langdao_01_06_04
+    3300046: UCX_Public_Building_langdao_01_06_05
+    3300048: UCX_Public_Building_langdao_01_06_06
+    3300050: UCX_Public_Building_langdao_01_06_07
+    3300052: UCX_Public_Building_langdao_01_06_08
+    3300054: UCX_Public_Building_langdao_01_06_09
+    3300056: UCX_Public_Building_langdao_01_06_10
+    3300058: UCX_Public_Building_langdao_01_06_11
+    3300060: UCX_Public_Building_langdao_01_06_12
+    3300062: UCX_Public_Building_langdao_01_06_13
+    3300064: UCX_Public_Building_langdao_01_06_14
+    3300066: UCX_Public_Building_langdao_01_06_15
+    3300068: UCX_Public_Building_langdao_01_06_16
+    3300070: UCX_Public_Building_langdao_01_06_17
+    3300072: UCX_Public_Building_langdao_01_06_18
+    3300074: UCX_Public_Building_langdao_01_06_19
+    3300076: UCX_Public_Building_langdao_01_06_20
+    3300078: UCX_Public_Building_langdao_01_06_21
+    3300080: UCX_Public_Building_langdao_01_08_01
+    3300082: UCX_Public_Building_langdao_01_08_01 1
+    3300084: UCX_Public_Building_langdao_01_08_02
+    3300086: UCX_Public_Building_langdao_01_08_02 1
+    3300088: UCX_Public_Building_langdao_01_08_03
+    3300090: UCX_Public_Building_langdao_01_08_03 1
+    3300092: UCX_Public_Building_langdao_01_08_04
+    3300094: UCX_Public_Building_langdao_01_08_04 1
+    3300096: UCX_Public_Building_langdao_01_08_05
+    3300098: UCX_Public_Building_langdao_01_08_05 1
+    3300100: UCX_Public_Building_langdao_01_08_06
+    3300102: UCX_Public_Building_langdao_01_08_06 1
+    3300104: UCX_Public_Building_langdao_01_08_07
+    3300106: UCX_Public_Building_langdao_01_08_07 1
+    3300108: UCX_Public_Building_langdao_01_08_08
+    3300110: UCX_Public_Building_langdao_01_08_08 1
+    3300112: UCX_Public_Building_langdao_01_08_09
+    3300114: UCX_Public_Building_langdao_01_08_09 1
+    3300116: UCX_Public_Building_langdao_01_08_10
+    3300118: UCX_Public_Building_langdao_01_08_10 1
+    3300120: UCX_Public_Building_langdao_01_08_11
+    3300122: UCX_Public_Building_langdao_01_08_11 1
+    3300124: UCX_Public_Building_langdao_01_08_12
+    3300126: UCX_Public_Building_langdao_01_08_12 1
+    3300128: UCX_Public_Building_langdao_01_08_13
+    3300130: UCX_Public_Building_langdao_01_08_13 1
+    3300132: UCX_Public_Building_langdao_01_08_14
+    3300134: UCX_Public_Building_langdao_01_08_14 1
+    3300136: UCX_Public_Building_langdao_01_08_15
+    3300138: UCX_Public_Building_langdao_01_08_15 1
+    3300140: UCX_Public_Building_langdao_01_08_16
+    3300142: UCX_Public_Building_langdao_01_08_16 1
+    3300144: UCX_Public_Building_langdao_01_08_17
+    3300146: UCX_Public_Building_langdao_01_08_17 1
+    4300000: Public_Building_langdao_01_03
+    4300002: UCX_Public_Building_langdao_01_06_01
+    4300004: UCX_Public_Building_langdao_01_06_02
+    4300006: UCX_Public_Building_langdao_01_06_03
+    4300008: UCX_Public_Building_langdao_01_06_04
+    4300010: UCX_Public_Building_langdao_01_06_05
+    4300012: UCX_Public_Building_langdao_01_06_06
+    4300014: UCX_Public_Building_langdao_01_06_07
+    4300016: UCX_Public_Building_langdao_01_06_08
+    4300018: UCX_Public_Building_langdao_01_06_09
+    4300020: UCX_Public_Building_langdao_01_06_10
+    4300022: UCX_Public_Building_langdao_01_06_11
+    4300024: UCX_Public_Building_langdao_01_06_12
+    4300026: UCX_Public_Building_langdao_01_06_13
+    4300028: UCX_Public_Building_langdao_01_06_14
+    4300030: UCX_Public_Building_langdao_01_06_15
+    4300032: UCX_Public_Building_langdao_01_06_16
+    4300034: UCX_Public_Building_langdao_01_06_17
+    4300036: UCX_Public_Building_langdao_01_06_18
+    4300038: UCX_Public_Building_langdao_01_06_19
+    4300040: UCX_Public_Building_langdao_01_06_20
+    4300042: UCX_Public_Building_langdao_01_06_21
+    4300044: Public_Building_langdao_01_04
+    4300046: UCX_Public_Building_langdao_01_08_01
+    4300048: UCX_Public_Building_langdao_01_08_02
+    4300050: UCX_Public_Building_langdao_01_08_03
+    4300052: UCX_Public_Building_langdao_01_08_04
+    4300054: UCX_Public_Building_langdao_01_08_05
+    4300056: UCX_Public_Building_langdao_01_08_06
+    4300058: UCX_Public_Building_langdao_01_08_07
+    4300060: UCX_Public_Building_langdao_01_08_08
+    4300062: UCX_Public_Building_langdao_01_08_09
+    4300064: UCX_Public_Building_langdao_01_08_10
+    4300066: UCX_Public_Building_langdao_01_08_11
+    4300068: UCX_Public_Building_langdao_01_08_12
+    4300070: UCX_Public_Building_langdao_01_08_13
+    4300072: UCX_Public_Building_langdao_01_08_14
+    4300074: UCX_Public_Building_langdao_01_08_15
+    4300076: UCX_Public_Building_langdao_01_08_16
+    4300078: UCX_Public_Building_langdao_01_08_17
+    4300080: Public_Building_langdao_01_02
+    4300082: UCX_Public_Building_langdao_01_04_01
+    4300084: UCX_Public_Building_langdao_01_04_02
+    4300086: UCX_Public_Building_langdao_01_04_03
+    4300088: UCX_Public_Building_langdao_01_04_04
+    4300090: UCX_Public_Building_langdao_01_04_05
+    4300092: UCX_Public_Building_langdao_01_04_06
+    4300094: UCX_Public_Building_langdao_01_04_07
+    4300096: UCX_Public_Building_langdao_01_04_08
+    4300098: UCX_Public_Building_langdao_01_04_09
+    4300100: UCX_Public_Building_langdao_01_04_10
+    4300102: UCX_Public_Building_langdao_01_04_11
+    4300104: UCX_Public_Building_langdao_01_04_12
+    4300106: UCX_Public_Building_langdao_01_04_13
+    4300108: UCX_Public_Building_langdao_01_04_14
+    4300110: UCX_Public_Building_langdao_01_04_15
+    4300112: Public_Building_langdao_01_01
+    4300114: UCX_Public_Building_langdao_01_08_01
+    4300116: UCX_Public_Building_langdao_01_08_02
+    4300118: UCX_Public_Building_langdao_01_08_03
+    4300120: UCX_Public_Building_langdao_01_08_04
+    4300122: UCX_Public_Building_langdao_01_08_05
+    4300124: UCX_Public_Building_langdao_01_08_06
+    4300126: UCX_Public_Building_langdao_01_08_07
+    4300128: UCX_Public_Building_langdao_01_08_08
+    4300130: UCX_Public_Building_langdao_01_08_09
+    4300132: UCX_Public_Building_langdao_01_08_10
+    4300134: UCX_Public_Building_langdao_01_08_11
+    4300136: UCX_Public_Building_langdao_01_08_12
+    4300138: UCX_Public_Building_langdao_01_08_13
+    4300140: UCX_Public_Building_langdao_01_08_14
+    4300142: UCX_Public_Building_langdao_01_08_15
+    4300144: UCX_Public_Building_langdao_01_08_16
+    4300146: UCX_Public_Building_langdao_01_08_17
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_02_mat2
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_03_mat2
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_04_mat2
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_07_mat2
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_8
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

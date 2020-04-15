@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9214383301615691082
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5364681502117910992}
+  - component: {fileID: 6755956899386996614}
+  m_Layer: 9
+  m_Name: Public_Building_Weiqiang_08_03_lod
+  m_TagString: Large
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5364681502117910992
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9214383301615691082}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5194456440072666140}
+  - {fileID: 2612760433214819543}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!205 &6755956899386996614
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9214383301615691082}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: -0.000005722046, y: 5.2293296, z: -0.0000076293945}
+  m_Size: 52.681107
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.6
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 5194456440074436338}
+    - renderer: {fileID: 0}
+  - screenRelativeHeight: 0.053775918
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 2612760433212395063}
+  m_Enabled: 1
+--- !u!1001 &2612760433214428759
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5364681502117910992}
+    m_Modifications:
+    - target: {fileID: 100000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_Name
+      value: Public_Building_Weiqiang_08_03_lod1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_TagString
+      value: Large
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: db45499eae46bc84fb8656f06d56f94f, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c02a2725acf886b4da8eb8a8b503951b, type: 3}
+--- !u!4 &2612760433214819543 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: c02a2725acf886b4da8eb8a8b503951b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2612760433214428759}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &2612760433212395063 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2300000, guid: c02a2725acf886b4da8eb8a8b503951b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2612760433214428759}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5194456440072529564
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5364681502117910992}
+    m_Modifications:
+    - target: {fileID: 100000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_Name
+      value: Public_Building_Weiqiang_08_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_TagString
+      value: Large
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_TagString
+      value: Large
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300014, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300014, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6b6f06b49aa09ab4a81f775e6fb6176b, type: 2}
+    - target: {fileID: 2300014, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: c03daa22c365b8243bb8d23d965f7f44, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d841f5a617d4e7d45a0fd47f850e3c1e, type: 3}
+--- !u!4 &5194456440072666140 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: d841f5a617d4e7d45a0fd47f850e3c1e,
+    type: 3}
+  m_PrefabInstance: {fileID: 5194456440072529564}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &5194456440074436338 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2300014, guid: d841f5a617d4e7d45a0fd47f850e3c1e,
+    type: 3}
+  m_PrefabInstance: {fileID: 5194456440072529564}
+  m_PrefabAsset: {fileID: 0}

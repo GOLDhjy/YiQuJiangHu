@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: danzhou_Battlefield_Stone_03_1_Mat
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _EMISSIVEAFFECTBYENVIRONMENT_ON _NORMALMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BlendNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Blend_MRAO:
+        m_Texture: {fileID: 2800000, guid: 66321cc856b03e245ac41ed8a53e0ecc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 7c9f28bdb317ed84cb329e5b5335ac5e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsColor:
+        m_Texture: {fileID: 2800000, guid: 98f97fb0f57ede44a8fd740dd412fe24, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsColor2:
+        m_Texture: {fileID: 2800000, guid: bab659d922245f144b80286d38b68066, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsColor3:
+        m_Texture: {fileID: 2800000, guid: d6ce4da22dbe096469c04c97461387c7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsNormal:
+        m_Texture: {fileID: 2800000, guid: b45245e070f13ed4bae84f87f0cfc750, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsNormal2:
+        m_Texture: {fileID: 2800000, guid: 5fec7e0cdd871b94aad01e61663fb65e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsNormal3:
+        m_Texture: {fileID: 2800000, guid: d22fc55e826d4164c8f517c939f45904, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 98f97fb0f57ede44a8fd740dd412fe24, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: e18afa4543af01e49a46ce3cbc562a84, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - BLEND_NORMAL: 0
+    - _AOIns: 1
+    - _AOSnowArea: 5
+    - _AOSnowColorIns: 2
+    - _AOSnowInfluence: 0
+    - _AO_Ins: 1
+    - _BlendWeight: 0
+    - _BumpScale: 1
+    - _Cull: 2
+    - _Curvature_Ins: 0
+    - _Curvature_Width: 3
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EmissiveAffectByEnvironment: 1
+    - _EmissivePower: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _MaxIntensity: 5
+    - _Metallic: 0
+    - _Metallic_Ins: 1
+    - _Mode: 0
+    - _Normal_Ins: 0.147
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RainEffectInfluence: 1.03
+    - _ReflectionIns: 0
+    - _Roughness_Ins: 1
+    - _ShadowSpec: 0.25
+    - _SmoothnessTextureChannel: 0
+    - _SnowEffectInfluence: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _UseEmissive: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _AOSnowColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorMultiply: {r: 1, g: 1, b: 1, a: 1}
+    - _DetailsTint: {r: 1, g: 1, b: 1, a: 1}
+    - _DetailsTint2: {r: 1, g: 1, b: 1, a: 1}
+    - _DetailsTint3: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissiveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RoughnessMultiply: {r: 1, g: 1, b: 1, a: 1}

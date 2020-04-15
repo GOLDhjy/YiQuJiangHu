@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1795246017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce46ec7c73d42133f56c4e79d7c02e0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- "Assets/RawRes/OutputData/\u5929\u5889\u4E8C\u4E09\u4E8B-\u5C0F\u66F2\u513F.json"
+- "Assets/RawRes/OutputData/\u3010\u8046\u97F3\u3011\u660E\u6708\u5929\u6DAF - \u4E94\u97F3Jw.json"
+- "Assets/RawRes/OutputData/\u58A8\u72D7\u86CB\u86CB,TIMMY,\u5F52\u70DB - \u5251\u4FA0\u98CE\u4E91\u5F55\uFF08Cover\uFF1A\u5251\u7F513\uFF09.json"
+- "Assets/RawRes/OutputData/\u9EA6\u632F\u9E3F - \u4ED9\u5251\u5947\u7F18.json"
+- "Assets/RawRes/OutputData/Higher\_Brothers,Famous Dex - Made In China (CLEAN).json"
+- "Assets/RawRes/OutputData/\u9F13\u58F030s.json"
+- Assets/RawRes/OutputData/4Hunnid,Gucci Mane,Zaytoven - Money Bags Shawty(Instrumental).json
+Dependencies: []

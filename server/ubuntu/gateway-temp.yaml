@@ -1,0 +1,15 @@
+server:
+  user_port: 5001 # tcp port
+  server_port: 8001 # listen port of gameserver
+  gateway_id: 1
+  work_thread: 1
+  enc_word: 0
+  max_receive_length: 1024000 # 1M
+
+cpp_log:
+  async: false
+  enable_console: true
+  name: "gateway_1" # log name
+  level: 0
+
+first_enter_server_type: 1

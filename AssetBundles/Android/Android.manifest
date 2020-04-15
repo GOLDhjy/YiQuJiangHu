@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2959489920
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: musicoutdata.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: scenes.unity3d
+      Dependencies: {}

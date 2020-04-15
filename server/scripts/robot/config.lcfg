@@ -1,0 +1,25 @@
+return {
+    -- 机器人线程数
+    thread_count = 1,
+
+    -- 每个线程的机器人数(机器人数= 机器人线程 * 每个线程机器人数)        
+    per_thread_robot_count = 1,
+
+    -- 网络线程数 
+    net_thread = 8,
+
+    -- 统计周期，0为不统计     
+    statistics = 5000,
+
+    -- 服务器地址
+    address = "127.0.0.1",
+
+    -- 服务器端口
+    port = 4472,
+
+    -- 重连毫秒数，0为不重连   
+    reconnect = 0,
+
+    -- rpc超时时间          
+    rpc_expired = 2000,             
+}

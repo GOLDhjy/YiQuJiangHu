@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 2be43ca4b296fea46a0d446093cb56bf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Public_Building_02
+    100004: Public_Building_02_01
+    100006: Public_Props_duilian_01
+    100008: Public_Props_yupeng_01
+    100010: UCX_Public_Building_02
+    100012: UCX_Public_Props_yupeng_01
+    100014: UCX_Public_Building_02_00
+    100016: UCX_Public_Building_02_01
+    100018: UCX_Public_Building_02_02
+    100020: UCX_Public_Building_02_03
+    100022: UCX_Public_Building_02_04
+    100024: UCX_Public_Building_02_05
+    100026: UCX_Public_Building_02_06
+    100028: UCX_Public_Building_02_07
+    100030: UCX_Public_Building_02_08
+    100032: UCX_Public_Building_02_09
+    100034: UCX_Public_Building_02_10
+    100036: UCX_Public_Building_02_11
+    100038: UCX_Public_Building_02_12
+    100040: UCX_Public_Building_02_13
+    100042: UCX_Public_Building_02_14
+    100044: UCX_Public_Building_02_15
+    100046: UCX_Public_Building_02_16
+    100048: UCX_Public_Building_02_17
+    100050: UCX_Public_Building_02_18
+    100052: UCX_Public_Building_02_19
+    100054: UCX_Public_Building_02_20
+    100056: UCX_Public_Building_02_21
+    100058: UCX_Public_Building_02_22
+    100060: UCX_Public_Building_02_23
+    100062: UCX_Public_Props_yupeng_01_00
+    100064: UCX_Public_Props_yupeng_01_01
+    100066: UCX_Public_Props_yupeng_01_02
+    100068: UCX_Public_Props_yupeng_01_03
+    100070: UCX_Public_Props_yupeng_01_04
+    400000: //RootNode
+    400002: Public_Building_02
+    400004: Public_Building_02_01
+    400006: Public_Props_duilian_01
+    400008: Public_Props_yupeng_01
+    400010: UCX_Public_Building_02
+    400012: UCX_Public_Props_yupeng_01
+    400014: UCX_Public_Building_02_00
+    400016: UCX_Public_Building_02_01
+    400018: UCX_Public_Building_02_02
+    400020: UCX_Public_Building_02_03
+    400022: UCX_Public_Building_02_04
+    400024: UCX_Public_Building_02_05
+    400026: UCX_Public_Building_02_06
+    400028: UCX_Public_Building_02_07
+    400030: UCX_Public_Building_02_08
+    400032: UCX_Public_Building_02_09
+    400034: UCX_Public_Building_02_10
+    400036: UCX_Public_Building_02_11
+    400038: UCX_Public_Building_02_12
+    400040: UCX_Public_Building_02_13
+    400042: UCX_Public_Building_02_14
+    400044: UCX_Public_Building_02_15
+    400046: UCX_Public_Building_02_16
+    400048: UCX_Public_Building_02_17
+    400050: UCX_Public_Building_02_18
+    400052: UCX_Public_Building_02_19
+    400054: UCX_Public_Building_02_20
+    400056: UCX_Public_Building_02_21
+    400058: UCX_Public_Building_02_22
+    400060: UCX_Public_Building_02_23
+    400062: UCX_Public_Props_yupeng_01_00
+    400064: UCX_Public_Props_yupeng_01_01
+    400066: UCX_Public_Props_yupeng_01_02
+    400068: UCX_Public_Props_yupeng_01_03
+    400070: UCX_Public_Props_yupeng_01_04
+    2100000: Public_Building_02
+    2100002: Public_Building_01_01_Mat
+    2100004: Public_Building_01_02_Mat
+    2100006: Public_Building_01_03_Mat
+    2100008: 02 - Default
+    2100010: 01 - Default
+    2300000: //RootNode
+    2300002: Public_Building_02
+    2300004: Public_Building_02_01
+    2300006: Public_Props_duilian_01
+    2300008: Public_Props_yupeng_01
+    2300010: UCX_Public_Building_02
+    2300012: UCX_Public_Props_yupeng_01
+    2300014: UCX_Public_Building_02_00
+    2300016: UCX_Public_Building_02_01
+    2300018: UCX_Public_Building_02_02
+    2300020: UCX_Public_Building_02_03
+    2300022: UCX_Public_Building_02_04
+    2300024: UCX_Public_Building_02_05
+    2300026: UCX_Public_Building_02_06
+    2300028: UCX_Public_Building_02_07
+    2300030: UCX_Public_Building_02_08
+    2300032: UCX_Public_Building_02_09
+    2300034: UCX_Public_Building_02_10
+    2300036: UCX_Public_Building_02_11
+    2300038: UCX_Public_Building_02_12
+    2300040: UCX_Public_Building_02_13
+    2300042: UCX_Public_Building_02_14
+    2300044: UCX_Public_Building_02_15
+    2300046: UCX_Public_Building_02_16
+    2300048: UCX_Public_Building_02_17
+    2300050: UCX_Public_Building_02_18
+    2300052: UCX_Public_Building_02_19
+    2300054: UCX_Public_Building_02_20
+    2300056: UCX_Public_Building_02_21
+    2300058: UCX_Public_Building_02_22
+    2300060: UCX_Public_Building_02_23
+    2300062: UCX_Public_Props_yupeng_01_00
+    2300064: UCX_Public_Props_yupeng_01_01
+    2300066: UCX_Public_Props_yupeng_01_02
+    2300068: UCX_Public_Props_yupeng_01_03
+    2300070: UCX_Public_Props_yupeng_01_04
+    3300000: //RootNode
+    3300002: Public_Building_02
+    3300004: Public_Building_02_01
+    3300006: Public_Props_duilian_01
+    3300008: Public_Props_yupeng_01
+    3300010: UCX_Public_Building_02
+    3300012: UCX_Public_Props_yupeng_01
+    3300014: UCX_Public_Building_02_00
+    3300016: UCX_Public_Building_02_01
+    3300018: UCX_Public_Building_02_02
+    3300020: UCX_Public_Building_02_03
+    3300022: UCX_Public_Building_02_04
+    3300024: UCX_Public_Building_02_05
+    3300026: UCX_Public_Building_02_06
+    3300028: UCX_Public_Building_02_07
+    3300030: UCX_Public_Building_02_08
+    3300032: UCX_Public_Building_02_09
+    3300034: UCX_Public_Building_02_10
+    3300036: UCX_Public_Building_02_11
+    3300038: UCX_Public_Building_02_12
+    3300040: UCX_Public_Building_02_13
+    3300042: UCX_Public_Building_02_14
+    3300044: UCX_Public_Building_02_15
+    3300046: UCX_Public_Building_02_16
+    3300048: UCX_Public_Building_02_17
+    3300050: UCX_Public_Building_02_18
+    3300052: UCX_Public_Building_02_19
+    3300054: UCX_Public_Building_02_20
+    3300056: UCX_Public_Building_02_21
+    3300058: UCX_Public_Building_02_22
+    3300060: UCX_Public_Building_02_23
+    3300062: UCX_Public_Props_yupeng_01_00
+    3300064: UCX_Public_Props_yupeng_01_01
+    3300066: UCX_Public_Props_yupeng_01_02
+    3300068: UCX_Public_Props_yupeng_01_03
+    3300070: UCX_Public_Props_yupeng_01_04
+    4300000: Public_Building_02
+    4300002: Public_Building_02_01
+    4300004: Public_Props_yupeng_01
+    4300006: UCX_Public_Building_02
+    4300008: UCX_Public_Props_yupeng_01
+    4300010: Public_Props_duilian_01
+    4300012: UCX_Public_Building_02_00
+    4300014: UCX_Public_Props_yupeng_01_03
+    4300016: UCX_Public_Building_02_01
+    4300018: UCX_Public_Building_02_02
+    4300020: UCX_Public_Building_02_03
+    4300022: UCX_Public_Building_02_04
+    4300024: UCX_Public_Building_02_05
+    4300026: UCX_Public_Building_02_06
+    4300028: UCX_Public_Building_02_07
+    4300030: UCX_Public_Building_02_08
+    4300032: UCX_Public_Building_02_09
+    4300034: UCX_Public_Building_02_10
+    4300036: UCX_Public_Building_02_11
+    4300038: UCX_Public_Building_02_12
+    4300040: UCX_Public_Building_02_13
+    4300042: UCX_Public_Building_02_14
+    4300044: UCX_Public_Building_02_15
+    4300046: UCX_Public_Building_02_16
+    4300048: UCX_Public_Building_02_17
+    4300050: UCX_Public_Building_02_18
+    4300052: UCX_Public_Building_02_19
+    4300054: UCX_Public_Building_02_20
+    4300056: UCX_Public_Building_02_21
+    4300058: UCX_Public_Building_02_22
+    4300060: UCX_Public_Building_02_23
+    4300062: UCX_Public_Props_yupeng_01_00
+    4300064: UCX_Public_Props_yupeng_01_04
+    4300066: UCX_Public_Props_yupeng_01_01
+    4300068: UCX_Public_Props_yupeng_01_02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_01_01_Mat
+    second: {fileID: 2100000, guid: abf5d953ea9a3094bb7ab5fb31740231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_01_02_Mat
+    second: {fileID: 2100000, guid: 6dd4ae18f71ebdf4baa71ca1da52d0fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_01_03_Mat
+    second: {fileID: 2100000, guid: 3c1b7d2ed51866646bfd60fadc3034d0, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

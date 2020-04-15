@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Battlefield_Stone_03_Mat
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _NORMALMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: d26842c403b85424da9fb265b62fcb19, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsColor:
+        m_Texture: {fileID: 2800000, guid: 34528842bb45b814c8c01756bce8fbca, type: 3}
+        m_Scale: {x: 6, y: 6}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsColor2:
+        m_Texture: {fileID: 2800000, guid: 3a4da3d89fc840b46b73e26dfd580371, type: 3}
+        m_Scale: {x: 5, y: 6}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsColor3:
+        m_Texture: {fileID: 2800000, guid: 74a602c5d659db5478a82af3ae078f95, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsNormal:
+        m_Texture: {fileID: 2800000, guid: 4c253259a16c59e4f9628d6a4d03ba1f, type: 3}
+        m_Scale: {x: 6, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsNormal2:
+        m_Texture: {fileID: 2800000, guid: a437de744625b9148ab36c23e80f5c14, type: 3}
+        m_Scale: {x: 6, y: 6}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsNormal3:
+        m_Texture: {fileID: 2800000, guid: 2a34aac093a356f4e9ad73d4b99a2b83, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 412c00043db096c46a4ad2b1b3430d58, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AOIns: 1
+    - _BumpScale: 1
+    - _Curvature_Ins: 0
+    - _Curvature_Width: 3
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _Normal_Ins: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RainEffectInfluence: 1
+    - _SmoothnessTextureChannel: 0
+    - _SnowEffectInfluence: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorMultiply: {r: 1, g: 1, b: 1, a: 1}
+    - _DetailsTint: {r: 1, g: 1, b: 1, a: 1}
+    - _DetailsTint2: {r: 1, g: 1, b: 1, a: 1}
+    - _DetailsTint3: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RoughnessMultiply: {r: 1, g: 1, b: 1, a: 1}

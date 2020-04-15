@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: American_Elm_Desktop_Move_Mat
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: EFFECT_BUMP EFFECT_HUE_VARIATION GEOM_TYPE_LEAF _ALPHATEST_ON
+    _EMISSION _EMISSIVEAFFECTBYENVIRONMENT_ON _NORMALMAP
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    RenderType: TransparentCutout
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Base_color:
+        m_Texture: {fileID: 2800000, guid: ec8db91f16443eb4b9300f658f270cfb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Blend_MRAO:
+        m_Texture: {fileID: 2800000, guid: ec8db91f16443eb4b9300f658f270cfb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 4e27289214f3fb84ab30fa79b8ace4a2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ec8db91f16443eb4b9300f658f270cfb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 4e27289214f3fb84ab30fa79b8ace4a2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SnowFoliageNoise:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SnowNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SnowRoughness:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterWaveNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AO_Ins: 1
+    - _BackGrassBright: 1
+    - _BackSSSBright: 4
+    - _BumpScale: 1
+    - _Cull: 0
+    - _Cutoff: 0.348
+    - _CutoffMax: 800
+    - _DetailNormalMapScale: 1
+    - _DetallPower: 2
+    - _DiffLevel: 0.849
+    - _DstBlend: 0
+    - _EmissiveAffectByEnvironment: 1
+    - _EmissivePower: 0
+    - _Gloss: 0.091
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _GrassTremblePower: 1
+    - _GrassTrembleScale: 0.32
+    - _GrassTrembleSpeed: 0.077
+    - _GustWindPower: 0.24
+    - _GustWindScale: 0.42
+    - _GustWindSpeed: 0.192
+    - _LightLevel: 0.669
+    - _Metallic: 0
+    - _Metallic_Ins: 1.402
+    - _Mode: 1
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RainEffectInfluence: 1
+    - _RainGlossMultiply: 0.2
+    - _ReflLevel: 0.84
+    - _ReflectionWeight: 0.4
+    - _RimLevel: 2
+    - _RippleIntensity: 2.5
+    - _RippleScale: 0.2
+    - _RippleTime: 0.5
+    - _RotateUV: 2
+    - _Roughness: 0.604
+    - _Roughness_Ins: 1
+    - _ShadowIntensity: 0.279
+    - _Shininess: 0.125
+    - _SmoothnessTextureChannel: 0
+    - _SnowCoverage: -0.2
+    - _SnowEffectInfluence: 2.55
+    - _SnowGlossMultiply: 0.3
+    - _SnowOverallThres: 0.3
+    - _SnowTopIntensity: 0.8
+    - _SnowWetness: 0.3
+    - _SpecLevel: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Sway_Speed: 0.11
+    - _UVSec: 0
+    - _UseDetal: 0
+    - _UseEmissive: 0
+    - _WaveIntensity: 5
+    - _WaveScale: 1
+    - _WaveSpeed: 1
+    - _WindForceScale: 0.32
+    - _WindForceSpeed: 1
+    - _WindPower: 0.064
+    - _WindQuality: 4
+    - _WindStength: 0.5
+    - _ZWrite: 1
+    - _ao: 0
+    - _new_ao: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissiveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _HueVariation: {r: 1, g: 0.5, b: 0, a: 0.1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0.26278037, g: 0.3962264, b: 0.23736204, a: 1}
+    - _RimDir: {r: 0, g: 1, b: 0, a: 1}
+    - _SnowColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 0.088999644, g: 0.1509434, b: 0.088999644, a: 1}

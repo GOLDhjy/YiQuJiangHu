@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 382990fc7da08f741854238e8874e7b9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Public_Ship_03
+    100004: UCX_Public_Ship_03_01
+    100006: UCX_Public_Ship_03_02
+    100008: UCX_Public_Ship_03_03
+    100010: UCX_Public_Ship_03_04
+    100012: UCX_Public_Ship_03_05
+    100014: UCX_Public_Ship_03_06
+    100016: UCX_Public_Ship_03_07
+    100018: UCX_Public_Ship_03_08
+    100020: UCX_Public_Ship_03_09
+    100022: UCX_Public_Ship_03_10
+    100024: UCX_Public_Ship_03_11
+    100026: UCX_Public_Ship_03_12
+    100028: UCX_Public_Ship_03_13
+    100030: UCX_Public_Ship_03_14
+    100032: UCX_Public_Ship_03_15
+    100034: UCX_Public_Ship_03_16
+    100036: UCX_Public_Ship_03_17
+    100038: pengzhuangti
+    400000: //RootNode
+    400002: Public_Ship_03
+    400004: UCX_Public_Ship_03_01
+    400006: UCX_Public_Ship_03_02
+    400008: UCX_Public_Ship_03_03
+    400010: UCX_Public_Ship_03_04
+    400012: UCX_Public_Ship_03_05
+    400014: UCX_Public_Ship_03_06
+    400016: UCX_Public_Ship_03_07
+    400018: UCX_Public_Ship_03_08
+    400020: UCX_Public_Ship_03_09
+    400022: UCX_Public_Ship_03_10
+    400024: UCX_Public_Ship_03_11
+    400026: UCX_Public_Ship_03_12
+    400028: UCX_Public_Ship_03_13
+    400030: UCX_Public_Ship_03_14
+    400032: UCX_Public_Ship_03_15
+    400034: UCX_Public_Ship_03_16
+    400036: UCX_Public_Ship_03_17
+    400038: pengzhuangti
+    2100000: Public_Ship_03
+    2100002: Public_Ship_03_Mat
+    2100004: 03 - Default
+    2300000: //RootNode
+    2300002: Public_Ship_03
+    2300004: UCX_Public_Ship_03_01
+    2300006: UCX_Public_Ship_03_02
+    2300008: UCX_Public_Ship_03_03
+    2300010: UCX_Public_Ship_03_04
+    2300012: UCX_Public_Ship_03_05
+    2300014: UCX_Public_Ship_03_06
+    2300016: UCX_Public_Ship_03_07
+    2300018: UCX_Public_Ship_03_08
+    2300020: UCX_Public_Ship_03_09
+    2300022: UCX_Public_Ship_03_10
+    2300024: UCX_Public_Ship_03_11
+    2300026: UCX_Public_Ship_03_12
+    2300028: UCX_Public_Ship_03_13
+    2300030: UCX_Public_Ship_03_14
+    2300032: UCX_Public_Ship_03_15
+    2300034: UCX_Public_Ship_03_16
+    2300036: UCX_Public_Ship_03_17
+    3300000: //RootNode
+    3300002: Public_Ship_03
+    3300004: UCX_Public_Ship_03_01
+    3300006: UCX_Public_Ship_03_02
+    3300008: UCX_Public_Ship_03_03
+    3300010: UCX_Public_Ship_03_04
+    3300012: UCX_Public_Ship_03_05
+    3300014: UCX_Public_Ship_03_06
+    3300016: UCX_Public_Ship_03_07
+    3300018: UCX_Public_Ship_03_08
+    3300020: UCX_Public_Ship_03_09
+    3300022: UCX_Public_Ship_03_10
+    3300024: UCX_Public_Ship_03_11
+    3300026: UCX_Public_Ship_03_12
+    3300028: UCX_Public_Ship_03_13
+    3300030: UCX_Public_Ship_03_14
+    3300032: UCX_Public_Ship_03_15
+    3300034: UCX_Public_Ship_03_16
+    3300036: UCX_Public_Ship_03_17
+    4300000: Public_Ship_03
+    4300002: UCX_Public_Ship_03_15
+    4300004: UCX_Public_Ship_03_16
+    4300006: UCX_Public_Ship_03_17
+    4300008: UCX_Public_Ship_03_01
+    4300010: UCX_Public_Ship_03_02
+    4300012: UCX_Public_Ship_03_03
+    4300014: UCX_Public_Ship_03_04
+    4300016: UCX_Public_Ship_03_05
+    4300018: UCX_Public_Ship_03_06
+    4300020: UCX_Public_Ship_03_07
+    4300022: UCX_Public_Ship_03_08
+    4300024: UCX_Public_Ship_03_09
+    4300026: UCX_Public_Ship_03_10
+    4300028: UCX_Public_Ship_03_11
+    4300030: UCX_Public_Ship_03_12
+    4300032: UCX_Public_Ship_03_13
+    4300034: UCX_Public_Ship_03_14
+    7400000: Take 001
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Ship_03
+    second: {fileID: 2100000, guid: 970ab6dbc7ada0f4e84b996e8cb50358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Ship_03_Mat
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

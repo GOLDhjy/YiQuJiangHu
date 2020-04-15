@@ -1,0 +1,6 @@
+return {
+    ["listen_port"] = 4472,
+    ["server_id"] = "127.0.0.1",
+    ["server_type"] = __SERVER_TYPE,
+    ["net_thread"] = 1,
+}

@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 57922f74b1286144e979585b2dd3228f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: American_Elm_Desktop_Billboard
+    100004: American_Elm_Desktop_LOD0
+    100006: American_Elm_Desktop_LOD1
+    100008: American_Elm_Desktop_LOD2
+    100010: CollisionObject0
+    100012: CollisionObject1
+    100014: American_Elm_Desktop_LOD3
+    100016: UCX_American_Elm_Desktop
+    100018: American_Elm_Desktop
+    100020: polySurface1383
+    100022: polySurface1553
+    100024: transform1
+    100026: transform2
+    400000: //RootNode
+    400002: American_Elm_Desktop_Billboard
+    400004: American_Elm_Desktop_LOD0
+    400006: American_Elm_Desktop_LOD1
+    400008: American_Elm_Desktop_LOD2
+    400010: CollisionObject0
+    400012: CollisionObject1
+    400014: American_Elm_Desktop_LOD3
+    400016: UCX_American_Elm_Desktop
+    400018: American_Elm_Desktop
+    400020: polySurface1383
+    400022: polySurface1553
+    400024: transform1
+    400026: transform2
+    2100000: Branches_1
+    2100002: Fronds_2
+    2100004: Branches_0
+    2100006: Leaves_3
+    2100008: 20 - Default
+    2100010: American_Elm_Desktop_Mat
+    2100012: Move
+    2100014: DontMove
+    2100016: 011 - Default
+    2300000: American_Elm_Desktop_LOD0
+    2300002: American_Elm_Desktop_LOD1
+    2300004: American_Elm_Desktop_LOD2
+    2300006: American_Elm_Desktop_LOD3
+    2300008: UCX_American_Elm_Desktop
+    3300000: American_Elm_Desktop_LOD0
+    3300002: American_Elm_Desktop_LOD1
+    3300004: American_Elm_Desktop_LOD2
+    3300006: American_Elm_Desktop_LOD3
+    3300008: UCX_American_Elm_Desktop
+    4300000: American_Elm_Desktop_LOD0
+    4300002: American_Elm_Desktop_LOD1
+    4300004: American_Elm_Desktop_LOD2
+    4300006: American_Elm_Desktop_LOD3
+    4300008: UCX_American_Elm_Desktop
+    20500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Default
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Branches_0
+    second: {fileID: 2100000, guid: b4058ba346e6c7446909b7e06474f964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Branches_1
+    second: {fileID: 2100000, guid: 83ac15742d0abe14fb789440a4bd47cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DontMove
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fronds_2
+    second: {fileID: 2100000, guid: e5b42d06527383c498720c33d6745bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves_3
+    second: {fileID: 2100000, guid: c9e3f0395f9b40d4b90615db1cd458f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Move
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

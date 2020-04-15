@@ -1,0 +1,66 @@
+syntax = "proto3";
+package YiQuJiangHuNetData;
+
+message MsgHead {
+    string proto = 1;
+    bytes   data = 2;
+}
+
+message Client_ping_req {
+    string Msg = 1;
+}
+
+message Server_pong_rsp {
+    string Msg = 1;
+}
+
+message Client_regist_req {
+    string Name = 1;
+    string Password = 2;
+}
+
+message Server_regist_rsp {
+    string Msg = 1;
+}
+
+message Client_login_req {
+    string Name = 1;
+    string Password = 2;
+}
+
+message Server_login_rsp {
+    string Msg = 1;
+}
+
+message Client_login_out_req {
+    int64 ID = 1;
+}
+
+message Server_login_out_rsp {
+    string Msg = 1;
+}
+
+message Gameinfo {
+    int32 Gid = 1;
+    int32 Score = 2;
+    int32 Chapter = 3;
+    int64 ID = 4;
+}
+
+message Client_save_req {
+    int32 Score = 1;
+    int32 Chapter = 2;
+    int64 ID = 3;
+}
+
+message Server_save_rsp {
+    string Msg = 1;
+}
+
+message Client_rank_req {
+    int64 Chapter = 1;
+}
+
+message Server_rank_rsp {
+    repeated Gameinfo Datas = 1;
+}

@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 5f15ca82598570f47a1ec3285d13230c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone004
+    100010: Bone005
+    100012: Bone006
+    100014: Bone006(mirrored)
+    100016: Bone007
+    100018: Bone007(mirrored)
+    100020: Bone008
+    100022: Bone008(mirrored)
+    100024: Bone009
+    100026: Bone009(mirrored)
+    100028: Bone011
+    100030: Bone012
+    100032: Bone013
+    100034: Bone014
+    100036: Bone015
+    100038: Bone016
+    100040: Bone016(mirrored)
+    100042: Bone017
+    100044: Bone017(mirrored)
+    100046: Bone018
+    100048: Bone018(mirrored)
+    100050: Bone019
+    100052: Bone019(mirrored)
+    100054: Bone020
+    100056: Bone020(mirrored)
+    100058: Bone022
+    100060: Bone022(mirrored)
+    100062: Bone023(mirrored)
+    100064: Bone023(mirrored)(mirrored)
+    100066: Bone024(mirrored)
+    100068: Bone024(mirrored)(mirrored)
+    100070: Dummy001
+    100072: Dummy002
+    100074: Dummy003
+    100076: Dummy004
+    100078: Dummy005
+    100080: IK Chain001
+    100082: IK Chain002
+    100084: IK Chain003
+    100086: IK Chain004
+    100088: //RootNode
+    100090: mount
+    100092: root
+    400000: 1
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone004
+    400010: Bone005
+    400012: Bone006
+    400014: Bone006(mirrored)
+    400016: Bone007
+    400018: Bone007(mirrored)
+    400020: Bone008
+    400022: Bone008(mirrored)
+    400024: Bone009
+    400026: Bone009(mirrored)
+    400028: Bone011
+    400030: Bone012
+    400032: Bone013
+    400034: Bone014
+    400036: Bone015
+    400038: Bone016
+    400040: Bone016(mirrored)
+    400042: Bone017
+    400044: Bone017(mirrored)
+    400046: Bone018
+    400048: Bone018(mirrored)
+    400050: Bone019
+    400052: Bone019(mirrored)
+    400054: Bone020
+    400056: Bone020(mirrored)
+    400058: Bone022
+    400060: Bone022(mirrored)
+    400062: Bone023(mirrored)
+    400064: Bone023(mirrored)(mirrored)
+    400066: Bone024(mirrored)
+    400068: Bone024(mirrored)(mirrored)
+    400070: Dummy001
+    400072: Dummy002
+    400074: Dummy003
+    400076: Dummy004
+    400078: Dummy005
+    400080: IK Chain001
+    400082: IK Chain002
+    400084: IK Chain003
+    400086: IK Chain004
+    400088: //RootNode
+    400090: mount
+    400092: root
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.02
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

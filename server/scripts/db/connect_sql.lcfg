@@ -1,0 +1,13 @@
+local connect_sql_infos = {
+    ["account"] = {
+        ip = "127.0.0.1",
+        port = 3306,
+        user = "root",
+        passwd = "",
+        dbname = "yiqujianghu",
+        charset = "utf8mb4",        
+        maxcount = 10,
+    },
+};
+
+return connect_sql_infos; 

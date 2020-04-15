@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: American_Elm_Desktop_DontMove_Mat
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: EFFECT_BUMP EFFECT_HUE_VARIATION GEOM_TYPE_LEAF _ALPHATEST_ON
+    _EMISSION _EMISSIVEAFFECTBYENVIRONMENT_ON _NORMALMAP
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    RenderType: TransparentCutout
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BlendNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Blend_MRAO:
+        m_Texture: {fileID: 2800000, guid: 97d735f93f4de574eab6af7ae7942fc5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 4e27289214f3fb84ab30fa79b8ace4a2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Detal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ec8db91f16443eb4b9300f658f270cfb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AOSnowArea: 5
+    - _AOSnowColorIns: 2
+    - _AOSnowInfluence: 0
+    - _AO_Ins: 1
+    - _BLEND_NORMAL: 0
+    - _BackGrassBright: 1.14
+    - _BackSSSBright: 4
+    - _BlendWeight: 0
+    - _BumpScale: 1
+    - _Cull: 0
+    - _Cutoff: 0.33
+    - _CutoffMax: 100
+    - _DetailNormalMapScale: 1
+    - _DetallPower: 2
+    - _DiffLevel: 1
+    - _DstBlend: 0
+    - _EmissiveAffectByEnvironment: 1
+    - _EmissivePower: 0
+    - _Gloss: 0.091
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _HasNightReflect: 0
+    - _LightLevel: 1
+    - _MaxIntensity: 5
+    - _Metallic: 0
+    - _Metallic_Ins: 1.402
+    - _Mode: 1
+    - _NightReflectBegin: 0.709
+    - _NightReflectEnd: 0.77
+    - _NightReflectWeight: 0.107
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RainEffectInfluence: 1
+    - _RainGlossMultiply: 0.2
+    - _ReflLevel: 1
+    - _ReflectionIns: 0
+    - _ReflectionWeight: 0.4
+    - _RimLevel: 2
+    - _RippleIntensity: 2.5
+    - _RippleScale: 0.2
+    - _RippleTime: 0.5
+    - _Roughness: 1
+    - _Roughness_Ins: 1
+    - _ShadowIntensity: 0
+    - _Shininess: 0.125
+    - _SmoothnessTextureChannel: 0
+    - _SnowEffectInfluence: 4.2
+    - _SnowGlossMultiply: 0.3
+    - _SnowWetness: 0.3
+    - _SpecLevel: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Sway_Speed: 0.02
+    - _UVSec: 0
+    - _UseDetal: 0
+    - _UseEmissive: 0
+    - _WaveIntensity: 5
+    - _WaveScale: 1
+    - _WaveSpeed: 1
+    - _WindQuality: 4
+    - _ZWrite: 1
+    - _ao: 0
+    m_Colors:
+    - _AOSnowColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissiveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _HueVariation: {r: 1, g: 0.5, b: 0, a: 0.1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _NightReflectEffectUV: {r: 0, g: 0.5, b: 0.5, a: 1}
+    - _RimColor: {r: 0.31132078, g: 0.17475082, b: 0.17475082, a: 1}
+    - _RimDir: {r: 0, g: 1, b: 0, a: 1}
+    - _SnowColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 0}

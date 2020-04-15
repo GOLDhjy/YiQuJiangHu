@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 86f688c913bfe86418429fac5adf166f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: pasted__pasted__polySurface3267
+    100002: //RootNode
+    100004: UCX_Public_Building_10_Outside_01
+    100006: UCX_Public_Building_10_Outside_02
+    100008: UCX_Public_Building_10_Outside_03
+    100010: UCX_Public_Building_10_Outside_04
+    100012: UCX_Public_Building_10_Outside_05
+    100014: UCX_Public_Building_10_Outside_06
+    100016: UCX_Public_Building_10_Outside_07
+    100018: UCX_Public_Building_10_Outside_08
+    100020: UCX_Public_Building_10_Outside_09
+    100022: UCX_Public_Building_10_Outside_10
+    100024: UCX_Public_Building_10_Outside_11
+    100026: UCX_Public_Building_10_Outside_12
+    100028: UCX_Public_Building_10_Outside_13
+    100030: UCX_Public_Building_10_Outside_14
+    100032: UCX_Public_Building_10_Outside_15
+    100034: UCX_Public_Building_10_Outside_16
+    100036: UCX_Public_Building_10_Outside_17
+    100038: UCX_Public_Building_10_Outside_18
+    100040: UCX_Public_Building_10_Outside_19
+    100042: UCX_Public_Building_10_Outside_20
+    100044: UCX_Public_Building_10_Outside_21
+    100046: UCX_Public_Building_10_Outside_22
+    100048: UCX_Public_Building_10_Outside_23
+    100050: UCX_Public_Building_10_Outside_24
+    100052: UCX_Public_Building_10_Outside_25
+    100054: UCX_Public_Building_10_Outside_26
+    100056: UCX_Public_Building_10_Outside_27
+    100058: UCX_Public_Building_10_Outside_28
+    100060: UCX_Public_Building_10_Outside_29
+    100062: UCX_Public_Building_10_Outside_30
+    100064: UCX_Public_Building_10_Outside_31
+    100066: UCX_Public_Building_10_Outside_32
+    100068: UCX_Public_Building_10_Outside_33
+    100070: UCX_Public_Building_10_Outside_34
+    100072: UCX_Public_Building_10_Outside_35
+    100074: UCX_Public_Building_10_Outside_36
+    100076: UCX_Public_Building_10_Outside_37
+    100078: UCX_Public_Building_10_Outside_38
+    100080: UCX_Public_Building_10_Outside_39
+    100082: UCX_Public_Building_10_Outside_40
+    100084: UCX_Public_Building_10_Outside_41
+    100086: UCX_Public_Building_10_Outside_42
+    100088: Public_Building_10_Outside
+    400000: pasted__pasted__polySurface3267
+    400002: //RootNode
+    400004: UCX_Public_Building_10_Outside_01
+    400006: UCX_Public_Building_10_Outside_02
+    400008: UCX_Public_Building_10_Outside_03
+    400010: UCX_Public_Building_10_Outside_04
+    400012: UCX_Public_Building_10_Outside_05
+    400014: UCX_Public_Building_10_Outside_06
+    400016: UCX_Public_Building_10_Outside_07
+    400018: UCX_Public_Building_10_Outside_08
+    400020: UCX_Public_Building_10_Outside_09
+    400022: UCX_Public_Building_10_Outside_10
+    400024: UCX_Public_Building_10_Outside_11
+    400026: UCX_Public_Building_10_Outside_12
+    400028: UCX_Public_Building_10_Outside_13
+    400030: UCX_Public_Building_10_Outside_14
+    400032: UCX_Public_Building_10_Outside_15
+    400034: UCX_Public_Building_10_Outside_16
+    400036: UCX_Public_Building_10_Outside_17
+    400038: UCX_Public_Building_10_Outside_18
+    400040: UCX_Public_Building_10_Outside_19
+    400042: UCX_Public_Building_10_Outside_20
+    400044: UCX_Public_Building_10_Outside_21
+    400046: UCX_Public_Building_10_Outside_22
+    400048: UCX_Public_Building_10_Outside_23
+    400050: UCX_Public_Building_10_Outside_24
+    400052: UCX_Public_Building_10_Outside_25
+    400054: UCX_Public_Building_10_Outside_26
+    400056: UCX_Public_Building_10_Outside_27
+    400058: UCX_Public_Building_10_Outside_28
+    400060: UCX_Public_Building_10_Outside_29
+    400062: UCX_Public_Building_10_Outside_30
+    400064: UCX_Public_Building_10_Outside_31
+    400066: UCX_Public_Building_10_Outside_32
+    400068: UCX_Public_Building_10_Outside_33
+    400070: UCX_Public_Building_10_Outside_34
+    400072: UCX_Public_Building_10_Outside_35
+    400074: UCX_Public_Building_10_Outside_36
+    400076: UCX_Public_Building_10_Outside_37
+    400078: UCX_Public_Building_10_Outside_38
+    400080: UCX_Public_Building_10_Outside_39
+    400082: UCX_Public_Building_10_Outside_40
+    400084: UCX_Public_Building_10_Outside_41
+    400086: UCX_Public_Building_10_Outside_42
+    400088: Public_Building_10_Outside
+    2100000: lambert1
+    2100002: 'Material #1258'
+    2100004: 'Material #1354'
+    2100006: 'Material #1355'
+    2100008: 'Material #1356'
+    2100010: 'Material #1353'
+    2100012: 'Material #1352'
+    2100014: Public_Building_06_02
+    2100016: Public_Building_06_04
+    2100018: Public_Building_06_03
+    2100020: Public_Building_06_01
+    2100022: Public_Building_06_07
+    2100024: Public_Building_06_06
+    2100026: Public_Building_06_07_mat
+    2100028: Public_Building_06_06_mat
+    2100030: Public_Building_06_02_mat
+    2100032: Public_Building_06_04_mat
+    2100034: Public_Building_06_03_mat
+    2100036: Public_Building_06_01_mat
+    2100038: 01 - Default
+    2100040: 02 - Default
+    2300000: pasted__pasted__polySurface3267
+    2300002: //RootNode
+    2300004: UCX_Public_Building_10_Outside_01
+    2300006: UCX_Public_Building_10_Outside_02
+    2300008: UCX_Public_Building_10_Outside_03
+    2300010: UCX_Public_Building_10_Outside_04
+    2300012: UCX_Public_Building_10_Outside_05
+    2300014: UCX_Public_Building_10_Outside_06
+    2300016: UCX_Public_Building_10_Outside_07
+    2300018: UCX_Public_Building_10_Outside_08
+    2300020: UCX_Public_Building_10_Outside_09
+    2300022: UCX_Public_Building_10_Outside_10
+    2300024: UCX_Public_Building_10_Outside_11
+    2300026: UCX_Public_Building_10_Outside_12
+    2300028: UCX_Public_Building_10_Outside_13
+    2300030: UCX_Public_Building_10_Outside_14
+    2300032: UCX_Public_Building_10_Outside_15
+    2300034: UCX_Public_Building_10_Outside_16
+    2300036: UCX_Public_Building_10_Outside_17
+    2300038: UCX_Public_Building_10_Outside_18
+    2300040: UCX_Public_Building_10_Outside_19
+    2300042: UCX_Public_Building_10_Outside_20
+    2300044: UCX_Public_Building_10_Outside_21
+    2300046: UCX_Public_Building_10_Outside_22
+    2300048: UCX_Public_Building_10_Outside_23
+    2300050: UCX_Public_Building_10_Outside_24
+    2300052: UCX_Public_Building_10_Outside_25
+    2300054: UCX_Public_Building_10_Outside_26
+    2300056: UCX_Public_Building_10_Outside_27
+    2300058: UCX_Public_Building_10_Outside_28
+    2300060: UCX_Public_Building_10_Outside_29
+    2300062: UCX_Public_Building_10_Outside_30
+    2300064: UCX_Public_Building_10_Outside_31
+    2300066: UCX_Public_Building_10_Outside_32
+    2300068: UCX_Public_Building_10_Outside_33
+    2300070: UCX_Public_Building_10_Outside_34
+    2300072: UCX_Public_Building_10_Outside_35
+    2300074: UCX_Public_Building_10_Outside_36
+    2300076: UCX_Public_Building_10_Outside_37
+    2300078: UCX_Public_Building_10_Outside_38
+    2300080: UCX_Public_Building_10_Outside_39
+    2300082: UCX_Public_Building_10_Outside_40
+    2300084: UCX_Public_Building_10_Outside_41
+    2300086: UCX_Public_Building_10_Outside_42
+    2300088: Public_Building_10_Outside
+    3300000: pasted__pasted__polySurface3267
+    3300002: //RootNode
+    3300004: UCX_Public_Building_10_Outside_01
+    3300006: UCX_Public_Building_10_Outside_02
+    3300008: UCX_Public_Building_10_Outside_03
+    3300010: UCX_Public_Building_10_Outside_04
+    3300012: UCX_Public_Building_10_Outside_05
+    3300014: UCX_Public_Building_10_Outside_06
+    3300016: UCX_Public_Building_10_Outside_07
+    3300018: UCX_Public_Building_10_Outside_08
+    3300020: UCX_Public_Building_10_Outside_09
+    3300022: UCX_Public_Building_10_Outside_10
+    3300024: UCX_Public_Building_10_Outside_11
+    3300026: UCX_Public_Building_10_Outside_12
+    3300028: UCX_Public_Building_10_Outside_13
+    3300030: UCX_Public_Building_10_Outside_14
+    3300032: UCX_Public_Building_10_Outside_15
+    3300034: UCX_Public_Building_10_Outside_16
+    3300036: UCX_Public_Building_10_Outside_17
+    3300038: UCX_Public_Building_10_Outside_18
+    3300040: UCX_Public_Building_10_Outside_19
+    3300042: UCX_Public_Building_10_Outside_20
+    3300044: UCX_Public_Building_10_Outside_21
+    3300046: UCX_Public_Building_10_Outside_22
+    3300048: UCX_Public_Building_10_Outside_23
+    3300050: UCX_Public_Building_10_Outside_24
+    3300052: UCX_Public_Building_10_Outside_25
+    3300054: UCX_Public_Building_10_Outside_26
+    3300056: UCX_Public_Building_10_Outside_27
+    3300058: UCX_Public_Building_10_Outside_28
+    3300060: UCX_Public_Building_10_Outside_29
+    3300062: UCX_Public_Building_10_Outside_30
+    3300064: UCX_Public_Building_10_Outside_31
+    3300066: UCX_Public_Building_10_Outside_32
+    3300068: UCX_Public_Building_10_Outside_33
+    3300070: UCX_Public_Building_10_Outside_34
+    3300072: UCX_Public_Building_10_Outside_35
+    3300074: UCX_Public_Building_10_Outside_36
+    3300076: UCX_Public_Building_10_Outside_37
+    3300078: UCX_Public_Building_10_Outside_38
+    3300080: UCX_Public_Building_10_Outside_39
+    3300082: UCX_Public_Building_10_Outside_40
+    3300084: UCX_Public_Building_10_Outside_41
+    3300086: UCX_Public_Building_10_Outside_42
+    3300088: Public_Building_10_Outside
+    4300000: pasted__pasted__polySurface3267
+    4300002: Public_Building_10_Outside
+    4300004: UCX_Public_Building_10_Outside_01
+    4300006: UCX_Public_Building_10_Outside_02
+    4300008: UCX_Public_Building_10_Outside_03
+    4300010: UCX_Public_Building_10_Outside_04
+    4300012: UCX_Public_Building_10_Outside_05
+    4300014: UCX_Public_Building_10_Outside_06
+    4300016: UCX_Public_Building_10_Outside_07
+    4300018: UCX_Public_Building_10_Outside_08
+    4300020: UCX_Public_Building_10_Outside_09
+    4300022: UCX_Public_Building_10_Outside_10
+    4300024: UCX_Public_Building_10_Outside_11
+    4300026: UCX_Public_Building_10_Outside_12
+    4300028: UCX_Public_Building_10_Outside_13
+    4300030: UCX_Public_Building_10_Outside_14
+    4300032: UCX_Public_Building_10_Outside_15
+    4300034: UCX_Public_Building_10_Outside_16
+    4300036: UCX_Public_Building_10_Outside_17
+    4300038: UCX_Public_Building_10_Outside_18
+    4300040: UCX_Public_Building_10_Outside_19
+    4300042: UCX_Public_Building_10_Outside_20
+    4300044: UCX_Public_Building_10_Outside_21
+    4300046: UCX_Public_Building_10_Outside_22
+    4300048: UCX_Public_Building_10_Outside_23
+    4300050: UCX_Public_Building_10_Outside_24
+    4300052: UCX_Public_Building_10_Outside_25
+    4300054: UCX_Public_Building_10_Outside_26
+    4300056: UCX_Public_Building_10_Outside_27
+    4300058: UCX_Public_Building_10_Outside_28
+    4300060: UCX_Public_Building_10_Outside_29
+    4300062: UCX_Public_Building_10_Outside_30
+    4300064: UCX_Public_Building_10_Outside_31
+    4300066: UCX_Public_Building_10_Outside_32
+    4300068: UCX_Public_Building_10_Outside_33
+    4300070: UCX_Public_Building_10_Outside_34
+    4300072: UCX_Public_Building_10_Outside_35
+    4300074: UCX_Public_Building_10_Outside_36
+    4300076: UCX_Public_Building_10_Outside_37
+    4300078: UCX_Public_Building_10_Outside_38
+    4300080: UCX_Public_Building_10_Outside_39
+    4300082: UCX_Public_Building_10_Outside_40
+    4300084: UCX_Public_Building_10_Outside_41
+    4300086: UCX_Public_Building_10_Outside_42
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 635bfe989036f2540a49e281b512dd01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_01
+    second: {fileID: 2100000, guid: 5b826b036616e5e48bf200963b620203, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_01_mat
+    second: {fileID: 2100000, guid: 5b826b036616e5e48bf200963b620203, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_02
+    second: {fileID: 2100000, guid: 5e5ecacfbd897d949827854ed32cdb0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_02_mat
+    second: {fileID: 2100000, guid: 5e5ecacfbd897d949827854ed32cdb0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_03
+    second: {fileID: 2100000, guid: 20c924bea867ca241b9e329190ed3068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_03_mat
+    second: {fileID: 2100000, guid: 20c924bea867ca241b9e329190ed3068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_04
+    second: {fileID: 2100000, guid: eed2dfdb37958d641839256c6743d327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_04_mat
+    second: {fileID: 2100000, guid: eed2dfdb37958d641839256c6743d327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_06
+    second: {fileID: 2100000, guid: 43ef83a6d1b31e54f901d5d3d4a71c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_06_mat
+    second: {fileID: 2100000, guid: 43ef83a6d1b31e54f901d5d3d4a71c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_07
+    second: {fileID: 2100000, guid: 864582b33586ac745a5b9235f7d97717, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public_Building_06_07_mat
+    second: {fileID: 2100000, guid: 864582b33586ac745a5b9235f7d97717, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

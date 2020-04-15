@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Game
+{
+    public interface IGameSystem
+    {
+        void Start();
+        void Update();
+        void Destroy();
+    }
+}
